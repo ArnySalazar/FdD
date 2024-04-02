@@ -1,3 +1,3 @@
 <h1>Participantes y sus Roles<h1/>
 
-![](https://github.com/)
+![](FdD2024-1/Imagenes/NosotrosImagenes/Arny.jpg)
