@@ -1,3 +1,3 @@
 # FdD
 ## Grupo 4!
-### *Curso: Fundamentos de Diseño*
+### *Docentes: Paulo Vela, Harry Rivera, Umbert De la Cruz, Juan Manuel Zuñiga y Renzo Chan*
