@@ -10,5 +10,5 @@
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/Mayory.png)
 
-[Enlace al README de la pagina principal][https://github.com/ArnySalazar/FdD/blob/main/README.md]
+[Enlace al README de la pagina principal](https://github.com/ArnySalazar/FdD/blob/main/README.md)
 
