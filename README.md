@@ -1,3 +1,3 @@
 # FdD
 ## Grupo 4!
-### **Curso: Fundamentos de Diseño**
+### *Curso: Fundamentos de Diseño*
