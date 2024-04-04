@@ -6,7 +6,7 @@
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Mapas/Tacho_Colapsado.png)
 
-> Los contenedores son uno de los principales motivos de ensuciamiento de las calles y de molestias al vecindario. -Ecologistas en Acción
+> *Los contenedores son uno de los principales motivos de ensuciamiento de las calles y de molestias al vecindario.* -Ecologistas en Acción
 
 # ¿Quienes somos?
 
