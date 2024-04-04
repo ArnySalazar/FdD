@@ -23,7 +23,7 @@
 ### Para mas informacion sobre nuestros roles, dar click [aqui](https://github.com/ArnySalazar/FdD/blob/main/FdD/Entregables/Nosotros_Roles.md).
 
 # ¿Por qué decidimos nuestro poyecto?
-# Decidimos nuestro proyecto pues a todos nos concierne el tema del cuidado del planeta; y en conjunto con esto podemos considerar los Objetivos de Desarrollo Sostenible, los cuales presentan metas para aproximadamente el 2050 en cuanto a avance medioambiental y dos de ellas están consideradas en nuestro proyecto. Principalmente, nos movió la problemática de la aglomeración de desechos que en primera instancia, significa un peligro para la salud, y segundamente, deteriora la conservación de la limpieza en la ciudad.
+## Decidimos nuestro proyecto pues a todos nos concierne el tema del cuidado del planeta; y en conjunto con esto podemos considerar los Objetivos de Desarrollo Sostenible, los cuales presentan metas para aproximadamente el 2050 en cuanto a avance medioambiental y dos de ellas están consideradas en nuestro proyecto. Principalmente, nos movió la problemática de la aglomeración de desechos que en primera instancia, significa un peligro para la salud, y segundamente, deteriora la conservación de la limpieza en la ciudad.
 
 # ¿Cuál es nuestro ODS?
 
