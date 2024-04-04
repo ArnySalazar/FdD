@@ -2,7 +2,7 @@
 
 |                Noombre               |           Correo            |                  Rol                  |
 |--------------------------------------|-----------------------------|---------------------------------------|
-|  Deza Mamani, Erick Armando          |                             |  Coordinador en Analisis de Datos     |
+|  Deza Mamani, Erick Armando          |  erick.deza@upch.pe         |  Coordinador en Analisis de Datos     |
 |  Mendez Cruz, Angely Yahayra         |  angely.mendez@upch.pe      |  Coordinadora de Web y Redacción      |
 |  Pacheco Seminario, Luciana Ginella  |  luciana.pacheco.s@upch.pe  |  Coordinadora de Manufactura Digital  |
 |  Salazar Cobian, Arny Eliu           |  arny.salazar@upch.pe       |  Coordinador de Software              |
