@@ -15,7 +15,7 @@
 |  Deza Mamani, Erick Armando          |  erick.deza@upch.pe         |  Coordinador en Analisis de Datos     |
 |  Mendez Cruz, Angely Yahayra         |  angely.mendez@upch.pe      |  Coordinadora de Web y Redacción      |
 |  Pacheco Seminario, Luciana Ginella  |  luciana.pacheco.s@upch.pe  |  Coordinadora de Manufactura Digital  |
-|  Salazar Cobian, Arny Eliu           |  arny.salazar@upch.pe       |  Coordinador de Software              |
+|  Salazar Cobian, Arny Eliu           |  arny.salazar@upch.pe       |  Coordinador de General y Software    |
 |  Turin Escobar, Mayory Yumira        |  mayory.turin@upch.pe       |  Coordinadora de Modelado 3D          |
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/Grupal.png)
