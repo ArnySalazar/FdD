@@ -10,7 +10,7 @@
 
 # ¿Quienes somos?
 
-|                Noombre               |           Correo            |                  Rol                  |
+|                Nombre                |           Correo            |                  Rol                  |
 |--------------------------------------|-----------------------------|---------------------------------------|
 |  Deza Mamani, Erick Armando          |  erick.deza@upch.pe         |  Coordinador en Analisis de Datos     |
 |  Mendez Cruz, Angely Yahayra         |  angely.mendez@upch.pe      |  Coordinadora de Web y Redacción      |
@@ -29,8 +29,13 @@
 ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-11.png)
 
 ## ¿Cuál es su objetivo?
+### Nuestro objetivo, que está estrechamente ligado a nuestro ODS 11: ciudades y comunidades sostenibles, es crear un dispositivo que pueda ser usado por distintas entidades (escuelas, universidades, municipalidades, aeropuertos, etc) a las cuales les interese promover el correcto manejo de residuos sólidos, les importe conservar la limpieza de sus entidades y estén dispuestas a agilizar la labor de recolección de desperdicios.
 
 ## ¿Cuáles son sus metas?
+### 1. Facilitar el trabajo de los recogedores de desechos
+### 2. Conservar la limpieza de las entidades donde se use el dispositivo
+### 3. Unir al país en el camino de las ODS 
+### 4. Reducir la glomeración de desperdicios en los contenedores
 
 # ¿Qué haremos?
 
