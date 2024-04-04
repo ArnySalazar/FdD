@@ -29,7 +29,7 @@
 ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-11.png)
 
 ## ¿Cuál es su objetivo?
-### Nuestro objetivo, que está estrechamente ligado a nuestro ODS 11: ciudades y comunidades sostenibles, es crear un dispositivo que pueda ser usado por distintas entidades (escuelas, universidades, municipalidades, aeropuertos, etc) a las cuales les interese promover el correcto manejo de residuos sólidos, les importe conservar la limpieza de sus entidades y estén dispuestas a agilizar la labor de recolección de desperdicios.
+### Nuestro objetivo, que está estrechamente ligado a nuestros ODS, el 11: ciudades y comunidades sostenibles y el 12: producción y consumo responsable, es crear un dispositivo que pueda ser usado por distintas entidades (escuelas, universidades, municipalidades, aeropuertos, etc) a las cuales les interese promover el correcto manejo de residuos sólidos, les importe conservar la limpieza de sus entidades y estén dispuestas a agilizar la labor de recolección de desperdicios.
 
 ## ¿Cuáles son sus metas?
 ### 1. Facilitar el trabajo de los recogedores de desechos
