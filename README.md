@@ -43,3 +43,9 @@
 [FdD](https://github.com/ArnySalazar/FdD/tree/main/FdD)
 
 [Imagenes](https://github.com/ArnySalazar/FdD/tree/main/FdD2024-1/Imagenes)
+
+# Bibliografia
+
+## Chirinos, H. M. (2001). La Basura, el Ambiente y la Educación Ambiental desde la complejidad (Bachelor's thesis).
+## Álvarez-Rivadulla, M. J., Montero, S., & Villamizar Santamaría, S. (2019). Hacia ciudades incluyentes, el ODS 11 y el reto de la segregación socioespacial en América Latina. Centro de Objetivos de Desarrollo Sostenible para América Latina y el Caribe-CODS-.(3).
+## Moran, M. (2015, enero 7). Ciudades. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/cities/
