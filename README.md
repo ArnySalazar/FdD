@@ -4,6 +4,10 @@
 
 ### Damos la bienvenida al repositorio del equipo 4 del curso "[Fundamentos de diseño](https://github.com/ArnySalazar/FdD/tree/main/FdD)". Aquí, nuestro grupo compartirá toda la documentación e información necesaria para cumplir con los objetivos de nuestro proyecto en este espacio colaborativo.
 
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Mapas/Tacho_Colapsado.png)
+
+> Los contenedores son uno de los principales motivos de ensuciamiento de las calles y de molestias al vecindario. -Ecologistas en Acción
+
 # ¿Quienes somos?
 
 |                Noombre               |           Correo            |                  Rol                  |
