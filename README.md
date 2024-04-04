@@ -37,6 +37,8 @@
 ### 2. Conservar la limpieza de las entidades donde se use el dispositivo.
 ### 3. Unir al país en el camino de las ODS.
 ### 4. Reducir la glomeración de desperdicios en los contenedores.
+### 5. Reducir los gases de efecto invernadero.
+### 6. Considerar a las empresas privadas en la correcta gestión de residuos.
 
 
 # Carpetas
