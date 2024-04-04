@@ -21,6 +21,14 @@
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/Grupal.png)
 
+### Para mas informacion sobre nuestros roles, dar click [aqui](https://github.com/ArnySalazar/FdD/blob/main/FdD/Entregables/Nosotros_Roles.md).
+
+# ¿Por qué decidimos nuestro poyecto?
+
+# ¿Cuál es nuestro ODS?
+
+
+
 
 ## Grupo 4!
 ### *Docentes: Paulo Vela, Harry Rivera, Umbert De la Cruz, Juan Manuel Zuñiga y Renzo Chan*
