@@ -2,7 +2,7 @@
 
 ## Ciudades Ecoamigables
 
-### Damos la bienvenida al repositorio del equipo 4 del curso "[Fundamentos de diseño](https://github.com/ArnySalazar/FdD/tree/main/FdD)". Aquí, nuestro grupo compartirá toda la documentación e información necesaria para cumplir con los objetivos de nuestro proyecto en este espacio colaborativo.
+Damos la bienvenida al repositorio del equipo 4 del curso "[Fundamentos de diseño](https://github.com/ArnySalazar/FdD/tree/main/FdD)". Aquí, nuestro grupo compartirá toda la documentación e información necesaria para cumplir con los objetivos de nuestro proyecto en este espacio colaborativo.
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Mapas/Tacho_Colapsado.png)
 
@@ -20,25 +20,28 @@
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/Grupal.png)
 
-### Para mas informacion sobre nuestros roles, dar click [aqui](https://github.com/ArnySalazar/FdD/blob/main/FdD/Entregables/Nosotros_Roles.md).
+Para mas informacion sobre nuestros roles, dar click [aqui](https://github.com/ArnySalazar/FdD/blob/main/FdD/Entregables/Nosotros_Roles.md).
 
 # ¿Por qué decidimos nuestro poyecto?
-## Decidimos nuestro proyecto pues a todos nos concierne el tema del cuidado del planeta; y en conjunto con esto podemos considerar los Objetivos de Desarrollo Sostenible, los cuales presentan metas para aproximadamente el 2050 en cuanto a avance medioambiental y dos de ellas están consideradas en nuestro proyecto. Principalmente, nos motivó la problemática de la aglomeración de desechos que en primera instancia, significa un peligro para la salud, y en segunda instancia, deteriora la conservación de la limpieza en la ciudad.
+
+Decidimos nuestro proyecto pues a todos nos concierne el tema del cuidado del planeta; y en conjunto con esto podemos considerar los Objetivos de Desarrollo Sostenible, los cuales presentan metas para aproximadamente el 2050 en cuanto a avance medioambiental y dos de ellas están consideradas en nuestro proyecto. Principalmente, nos motivó la problemática de la aglomeración de desechos que en primera instancia, significa un peligro para la salud, y en segunda instancia, deteriora la conservación de la limpieza en la ciudad.
 
 # ¿Cuáles son nuestros ODS?
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Logos/LogoODS.png)
 
 ## ¿Cuál es su objetivo?
-### Nuestro objetivo, que está estrechamente ligado a nuestros ODS, el 11: ciudades y comunidades sostenibles y el 12: producción y consumo responsable, es crear un dispositivo que pueda ser usado por distintas entidades (escuelas, universidades, municipalidades, aeropuertos, etc) a las cuales les interese promover el correcto manejo de residuos sólidos, les importe conservar la limpieza de sus entidades y estén dispuestas a agilizar la labor de recolección de desperdicios.
+
+Nuestro objetivo, que está estrechamente ligado a nuestros ODS, el 11: ciudades y comunidades sostenibles y el 12: producción y consumo responsable, es crear un dispositivo que pueda ser usado por distintas entidades (escuelas, universidades, municipalidades, aeropuertos, etc) a las cuales les interese promover el correcto manejo de residuos sólidos, les importe conservar la limpieza de sus entidades y estén dispuestas a agilizar la labor de recolección de desperdicios.
 
 ## ¿Cuáles son sus metas?
-### 1. Facilitar el trabajo de los recogedores de desechos.
-### 2. Conservar la limpieza de las entidades donde se use el dispositivo.
-### 3. Unir al país en el camino de las ODS.
-### 4. Reducir la glomeración de desperdicios en los contenedores.
-### 5. Reducir los gases de efecto invernadero.
-### 6. Considerar a las empresas privadas en la correcta gestión de residuos.
+
+1. Facilitar el trabajo de los recogedores de desechos.
+2. Conservar la limpieza de las entidades donde se use el dispositivo.
+3. Unir al país en el camino de las ODS.
+4. Reducir la glomeración de desperdicios en los contenedores.
+5. Reducir los gases de efecto invernadero.
+6. Considerar a las empresas privadas en la correcta gestión de residuos.
 
 
 # Carpetas
