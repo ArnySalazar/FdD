@@ -25,9 +25,9 @@
 # ¿Por qué decidimos nuestro poyecto?
 ## Decidimos nuestro proyecto pues a todos nos concierne el tema del cuidado del planeta; y en conjunto con esto podemos considerar los Objetivos de Desarrollo Sostenible, los cuales presentan metas para aproximadamente el 2050 en cuanto a avance medioambiental y dos de ellas están consideradas en nuestro proyecto. Principalmente, nos motivó la problemática de la aglomeración de desechos que en primera instancia, significa un peligro para la salud, y en segunda instancia, deteriora la conservación de la limpieza en la ciudad.
 
-# ¿Cuál es nuestro ODS?
+# ¿Cuáles son nuestros ODS?
 
-![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-11.png)
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Logos/LogoODS.png)
 
 ## ¿Cuál es su objetivo?
 ### Nuestro objetivo, que está estrechamente ligado a nuestros ODS, el 11: ciudades y comunidades sostenibles y el 12: producción y consumo responsable, es crear un dispositivo que pueda ser usado por distintas entidades (escuelas, universidades, municipalidades, aeropuertos, etc) a las cuales les interese promover el correcto manejo de residuos sólidos, les importe conservar la limpieza de sus entidades y estén dispuestas a agilizar la labor de recolección de desperdicios.
