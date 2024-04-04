@@ -2,7 +2,7 @@
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/Angely.png)
   
-![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/Arny.png)
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/ArnyS.png)
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/Erick.png)
 
