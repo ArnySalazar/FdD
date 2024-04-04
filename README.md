@@ -18,7 +18,6 @@
 |  Salazar Cobian, Arny Eliu           |  arny.salazar@upch.pe       |  Coordinador de Software              |
 |  Turin Escobar, Mayory Yumira        |  mayory.turin@upch.pe       |  Coordinadora de Modelado 3D          |
 
-
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/Grupal.png)
 
 ### Para mas informacion sobre nuestros roles, dar click [aqui](https://github.com/ArnySalazar/FdD/blob/main/FdD/Entregables/Nosotros_Roles.md).
@@ -29,7 +28,15 @@
 
 ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-11.png)
 
+## ¿Cuál es su objetivo?
 
+## ¿Cuáles son sus metas?
+
+# ¿Qué haremos?
+
+## Nuestro objetivo
+
+## 
 
 
 ## Grupo 4!
