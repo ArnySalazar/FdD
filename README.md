@@ -2,7 +2,7 @@
 
 ## Ciudades Ecoamigables
 
-Damos la bienvenida al repositorio del equipo 4 del curso "[Fundamentos de diseño](https://github.com/ArnySalazar/FdD/tree/main/FdD)". Aquí, nuestro grupo compartirá toda la documentación e información necesaria para cumplir con los objetivos de nuestro proyecto en este espacio colaborativo.
+¡Bienvenidos al repositorio del equipo 4 del curso "[Fundamentos de diseño](https://github.com/ArnySalazar/FdD/tree/main/FdD)"!. Aquí, encontrarán toda la documentación e información necesaria para cumplir con los objetivos de nuestro proyecto colaborativo.
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Mapas/Tacho_Colapsado.png)
 
