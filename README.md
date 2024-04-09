@@ -24,7 +24,7 @@ Para mas informacion sobre nuestros roles, dar click [aqui](https://github.com/A
 
 # ¿Por qué decidimos nuestro poyecto?
 
-Decidimos nuestro proyecto pues a todos nos concierne el tema del cuidado del planeta; y en conjunto con esto podemos considerar los Objetivos de Desarrollo Sostenible, los cuales presentan metas para aproximadamente el 2050 en cuanto a avance medioambiental y dos de ellas están consideradas en nuestro proyecto. Principalmente, nos motivó la problemática de la aglomeración de desechos que en primera instancia, significa un peligro para la salud, y en segunda instancia, deteriora la conservación de la limpieza en la ciudad.
+Decidimos nuestro proyecto porque a todos nos concierne el tema del cuidado del planeta.En conjunto con esto, podemos considerar los Objetivos de Desarrollo Sostenible, los cuales presentan metas para aproximadamente el 2050 en cuanto a avance medioambiental y dos de ellas están consideradas en nuestro proyecto. Principalmente, nos motivó la problemática de la aglomeración de desechos que en primera instancia, significa un peligro para la salud, y en segunda instancia, deteriora la conservación de la limpieza en la ciudad.
 
 # ¿Cuáles son nuestros ODS?
 
