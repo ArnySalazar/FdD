@@ -6,7 +6,7 @@
 
 ## Definición de la problemática
 ### Identificación del problema
-El rebasamiento de residuos sólidos en los contenedores urbanos de Lima Metropolitana, lo cual genera impactos negativos en la salud pública, el medio ambiente y la calidad de vida de los habitantes.[2]
+El rebasamiento de residuos sólidos en los contenedores urbanos de Lima Metropolitana, lo cual genera impactos negativos en la salud pública, el medio ambiente y la calidad de vida de los habitantes. [[2]](https://elcomercio.pe/lima/sucesos/que-distritos-limenos-generan-la-mayor-cantidad-de-residuos-solidos-basura-noticia/?ref=ecr)
 ### Contextualizacion
 El crecimiento poblacional y la falta de infraestructura adecuada para la gestión de residuos sólidos en Lima Metropolitana. Esta situación se agrava debido a la insuficiente recolección y disposición final de los desechos, así como a la falta de conciencia ambiental y prácticas inadecuadas de disposición por parte de la población.[3]
 ### Impacto y conseciencias
