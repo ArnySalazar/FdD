@@ -20,7 +20,7 @@
 |  Turin Escobar, Mayory Yumira        |  mayory.turin@upch.pe       |  Coordinadora de Diseño y Modelado 3D        |
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Personas/Grupal.png)
-
+Grupo 4. Fundamentos de Diseño 2024 - 1
 Para más informacion sobre nuestros roles, dar click [aqui](https://github.com/ArnySalazar/FdD/blob/main/FdD/Entregables/Nosotros_Roles.md).
 
 # ¿Por qué decidimos nuestro proyecto?
