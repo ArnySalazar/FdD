@@ -25,21 +25,30 @@ Residuos solidos por habitante en kilogramo. Britcham.
 ## Contexto Nacional
 El Perú en la gestión de los residuos sólidos es una meta debido a la gran cantidad de basura generada y su mala organización.
 Cada día en el Perú se generan alrededor de 21 millones de toneladas de basura o también llamados residuos sólidos están producidos por más de 33 millones de habitantes, lamentablemente estos residuos más de un 40% terminan en los botaderos ilegales,quebradas, lagos y mares[7].En el año 2020 se produjeron un total de 7,905,118 toneladas de residuos solidos en el país según datos evaluados por el Ministerio de Ambiente[8]
+
 -Lima con 3,457,830 que equivale a 43.7%
--Piura con 441,283 
+
+-Piura con 441,283
+
 -Libertad con 442.181
+
 -Arequipa con 337,640
+
 Causas de mala dispersión de los residuos sólidos
+
 1.-presencia de vertederos en cielo abierto
 2.-eficiencia de la planificación y ejecución de políticas de gestión de residuos por parte de las autoridades locales 
 3.-Falta de incentivos para la población adopte prácticas sostenibles  
 4.-Escases de servicio de recolección regulares en áreas urbanas
-CONSECUENCIAS A CAUSA DE LOS RESIDUOS SÓLIDOS
-1.- La falta de recursos sanitarios adecuados como basureros contenedores contribuyen a la contaminación ambiental por consiguiente[9].
-Lima
-La gestión de residuos sólidos es un tema importante.La población total de Lima es de 10,288,888 habitantes, mientras que en las zonas rurales es de 127,2511. y se genera aproximadamente 3,4 millones de toneladas de residuos sólidos al año (2020)[10].
 
-![](Minam)
+CONSECUENCIAS A CAUSA DE LOS RESIDUOS SÓLIDOS
+
+1.- La falta de recursos sanitarios adecuados como basureros contenedores contribuyen a la contaminación ambiental por consiguiente[9].
+
+Lima
+La gestión de residuos sólidos es un tema importante.La población total de Lima es de 10,288,888 habitantes, mientras que en las zonas rurales es de 127,2511. y se genera aproximadamente 3,4 millones de toneladas de residuos sólidos al año (2020)[1].
+
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Nacional.png)
 
 ## Definición de la problemática
 ### Identificación del problema
