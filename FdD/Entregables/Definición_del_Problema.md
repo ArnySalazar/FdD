@@ -51,7 +51,7 @@ La gestión de residuos sólidos es un tema importante.La población total de Li
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Nacional.png)
 **Figura 5:** Extraido de MINAM
 
-## Contexto economico
+## Contexto económico
 
 ### CONTEXTO ECONÓMICO A NIVEL INTERNACIONAL
 El mal manejo de los residuos sólidos por parte de las empresas y ciudadanos es una problemática presentada en diversas partes del mundo, la cual está estrechamente ligada a actividades humanas y maximizada por el crecimiento poblacional entre otros factores, por lo que es necesario la adopción de medidas frente a esto por parte de las naciones.
