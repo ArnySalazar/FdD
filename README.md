@@ -5,7 +5,7 @@
 ¡Bienvenidos al repositorio del equipo 4 del curso de "[Fundamentos de diseño](https://github.com/ArnySalazar/FdD/tree/main/FdD)"! Aquí, encontrarán toda la documentación e información necesaria para cumplir con los objetivos de nuestro proyecto colaborativo.
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Mapas/Tacho_Colapsado.png)
-Extraido de 
+Tacho de basura colapsado en pleno corazon de Lima. Fue extraido de "La crisis de los tachos: hay que caminar hasta 1,5 km para hallar un basurero en Lima" y tomada por Jomayvit Gálaga.
 
 > *Los contenedores son uno de los principales motivos de ensuciamiento de las calles y de molestias al vecindario.* -[Ecologistas en Acción](https://www.ecologistasenaccion.org)
 
