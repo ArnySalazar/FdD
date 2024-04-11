@@ -37,8 +37,11 @@ Cada día en el Perú se generan alrededor de 21 millones de toneladas de basura
 Causas de mala dispersión de los residuos sólidos
 
 1.-Presencia de vertederos a cielo abierto
+
 2.-eficiencia de la planificación y ejecución de políticas de gestión de residuos por parte de las autoridades locales 
+
 3.-Falta de incentivos para la población adopte prácticas sostenibles  
+
 4.-Escasos de servicio de recolección regular en áreas urbanas
 
 CONSECUENCIAS A CAUSA DE LOS RESIDUOS SÓLIDOS
