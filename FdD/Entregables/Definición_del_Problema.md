@@ -9,18 +9,18 @@
 A medida que se incrementan las personas en diferentes puntos del mundo  aumenta la tasa de industrialización y urbanización. La forma  de vivienda y consumo proporciona una gama amplia de variedad de productos, a causa de ello, se genera un aumento de  residuos sólidos por cada habitante entre el 2016 y 2050 según el Banco mundial se estima un 70% de incremento de residuos sólidos[].
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Contexto_Mundial.png)
-Cantidad de residuos sólidos municipales generados por persona. Statista 2022
+**Figura 2:** Cantidad de residuos sólidos municipales generados por persona. Statista 2022
 
 Cada año a nivel mundial se recolecta una cantidad de residuos sólidos de 11.200  millones de toneladas y tan solo el 9% de los plásticos y una aproximación de 12% en incineración, mientras un 79% quedaron varados en vertederos y en ambiente libre[2].
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Residuos_Solidos.png)
-Residuos sólidos con manejo adecuado e inadecuado de las áreas urbanas. UNEP.
+**Figura 3:** Residuos sólidos con manejo adecuado e inadecuado de las áreas urbanas. UNEP.
 
 ## Contexto Regional
 Los residuos sólidos en Latinoamérica y el Caribe tuvo un alcance de 540.000 toneladas diarias se pronostica que para el año 2050 se llegue a producir  671.00 toneladas por día según informes de ONU Medio Ambiente[3].En los últimos años  la recolección de residuos sólidos ha mejorado significativamente a pesar de ello se demuestra según los datos de la ONU Medio Ambiente que aun cerca de 170 millones de personas están expuestas a las consecuencias que producen los residuos sólidos.
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Regional.png)
-Residuos solidos por habitante en kilogramo. Britcham.
+**Figura 4:** Residuos solidos por habitante en kilogramo. Britcham.
 
 ## Contexto Nacional
 El Perú en la gestión de los residuos sólidos es una meta debido a la gran cantidad de basura generada y su mala organización.
@@ -49,7 +49,7 @@ Lima
 La gestión de residuos sólidos es un tema importante.La población total de Lima es de 10,288,888 habitantes, mientras que en las zonas rurales es de 127,2511. y se genera aproximadamente 3,4 millones de toneladas de residuos sólidos al año (2020)[1].
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Nacional.png)
-Extraido de MINAM
+**Figura 4:** Extraido de MINAM
 
 ## Contexto economico
 
@@ -58,14 +58,14 @@ El mal manejo de los residuos sólidos por parte de las empresas y ciudadanos es
 Tal es el caso, se realizaron estudios de generación y cuantificación de subproductos de los residuos sólidos urbanos,  en la cabecera municipal de Berriozábal, Chiapas, México; haciendo una proyección a futuro de la tasa de generación de RSU y del crecimiento poblacional (Fig. #) que permite ver que en un periodo de 10 años, en dicho lugar, se estará generando 0.66 kg/hab/d.
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/E_U_N.png)
-Fig#. Población y generación per cápita de residuos sólidos urbanos (RSU) en Berriozábal 2016 - 2026
+**Figura 5:** Población y generación per cápita de residuos sólidos urbanos (RSU) en Berriozábal 2016 - 2026
 
 ### CONTEXTO ECONÓMICO A NIVEL REGIONAL (SUDAMÉRICA)
 En el año 2020, la Comisión Económica para América Latina y el Caribe
 (CEPAL) señaló que, a 10 años del vencimiento del plazo de los ODS, la situación es crítica en la mayoría de los indicadores en América Latina y el Caribe (ALC). Considerando un total de 72 indicadores, solo en cuatro de estos se alcanzó el umbral establecido, en 15 se sigue la tendencia correcta, en ocho se requiere la intervención estatal con políticas públicas, y en 13, se requiere también la intervención privada.
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/E_U_R.png)
-Figura[#] Avance de los indicadores de los ODS al 2030. CEPAL, 2020.
+**Figura 6:** Avance de los indicadores de los ODS al 2030. CEPAL, 2020.
 
 Treinta y dos indicadores presentan los mayores problemas en cuanto a avance, algunos en estado estancado y otros en retroceso. Cabe mencionar que el indicador del ODS 12, uno de los seleccionados por nuestro equipo, se encuentra paralizado.
 
@@ -73,7 +73,7 @@ Treinta y dos indicadores presentan los mayores problemas en cuanto a avance, al
 Finalmente, tenemos que mirar la perspectiva de nuestro país. En el Perú, entre los años 2010 y 2011, el volumen de residuos sólidos se incrementó en 20%, pasando de 6 millones de toneladas a 7,2 millones de toneladas. Así mismo, la generación de residuos sólidos per cápita se incrementó en 17%: pasando a 0,61 kg/hab/día en 2011. La mayor generación per cápita diaria se registró en Huancavelica (0,76 kg/hab/día). Este incremento refleja el crecimiento urbano acelerado y poco planificado, así como el cambio en los patrones de consumo. [#]
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/E_U.png)
-Figura [#]. Informe Nacional de Residuos Sólidos emitidos en diversas ciudades del Perú.
+**Figura 7:** Informe Nacional de Residuos Sólidos emitidos en diversas ciudades del Perú.
 
 ## Definición de la problemática
 ### Identificación del problema
@@ -88,10 +88,12 @@ La justificación radica en su impacto directo en la salud pública, el medio am
 # Diagrama de Ishikawa
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Ishikawa.png)
+**Figura 8:** Crecion propia
 
 # Journey Map
 
 ![]()
+**Figura 9:** Creacion Propia
 
 ## Bibliografía
 1. El Comercio Perú, N. (2020, enero 31). ¿Qué distritos limeños generan la mayor cantidad de residuos sólidos? El Comercio Perú. https://elcomercio.pe/lima/sucesos/que-distritos-limenos-generan-la-mayor-cantidad-de-residuos-solidos-basura-noticia/?ref=ecr
