@@ -16,7 +16,11 @@ La justificación radica en su impacto directo en la salud pública, el medio am
 
 # Diagrama de Ishikawa
 
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Ishikawa.png)
 
+# Journey Map
+
+![]()
 
 ## Bibliografía
 1. El Comercio Perú, N. (2020, enero 31). ¿Qué distritos limeños generan la mayor cantidad de residuos sólidos? El Comercio Perú. https://elcomercio.pe/lima/sucesos/que-distritos-limenos-generan-la-mayor-cantidad-de-residuos-solidos-basura-noticia/?ref=ecr
