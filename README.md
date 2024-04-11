@@ -5,7 +5,7 @@
 ¡Bienvenidos al repositorio del equipo 4 del curso de "[Fundamentos de diseño](https://github.com/ArnySalazar/FdD/tree/main/FdD)"! Aquí, encontrarán toda la documentación e información necesaria para cumplir con los objetivos de nuestro proyecto colaborativo.
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/Mapas/Tacho_Colapsado.png)
-Tacho de basura colapsado en pleno corazon de Lima. Fue extraido de "La crisis de los tachos: hay que caminar hasta 1,5 km para hallar un basurero en Lima" y tomada por Jomayvit Gálaga.
+**Figura 1** Tacho de basura colapsado en pleno corazon de Lima. Fue extraido de "La crisis de los tachos: hay que caminar hasta 1,5 km para hallar un basurero en Lima" y tomada por Jomayvit Gálaga. (1)
 
 > *Los contenedores son uno de los principales motivos de ensuciamiento de las calles y de molestias al vecindario.* -[Ecologistas en Acción](https://www.ecologistasenaccion.org)
 
@@ -53,6 +53,7 @@ Nuestro objetivo, que está estrechamente ligado a nuestros ODS, el 11: Ciudades
 
 # Bibliografía
 
-1. Chirinos, H. M. (2001). La Basura, el Ambiente y la Educación Ambiental desde la complejidad (Bachelor's thesis).
-2. Álvarez-Rivadulla, M. J., Montero, S., & Villamizar Santamaría, S. (2019). Hacia ciudades incluyentes, el ODS 11 y el reto de la segregación socioespacial en América Latina. Centro de Objetivos de Desarrollo Sostenible para América Latina y el Caribe-CODS-.(3).
-3. Moran, M. (2015, enero 7). Ciudades. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/cities/
+1. Puerta, J. G. (2022, julio 1). La crisis de los tachos: hay que caminar hasta 1,5 km para hallar un basurero en Lima. El Comercio Perú. https://elcomercio.pe/lima/la-crisis-de-los-tachos-hay-que-caminar-15-km-en-promedio-para-hallar-un-basurero-en-lima-pasa-en-la-calle-avenida-canada-surco-surquillo-la-victoria-basura-contaminacion-munoz-noticia/?ref=ecr
+2. Chirinos, H. M. (2001). La Basura, el Ambiente y la Educación Ambiental desde la complejidad (Bachelor's thesis).
+3. Álvarez-Rivadulla, M. J., Montero, S., & Villamizar Santamaría, S. (2019). Hacia ciudades incluyentes, el ODS 11 y el reto de la segregación socioespacial en América Latina. Centro de Objetivos de Desarrollo Sostenible para América Latina y el Caribe-CODS-.(3).
+4. Moran, M. (2015, enero 7). Ciudades. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/cities/
