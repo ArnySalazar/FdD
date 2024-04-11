@@ -4,6 +4,10 @@
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/I_1.png)
 **Figura 1:** Residuos sólidos depositados depositados en via publica. Fue extraído de “¿Qué distritos limeños generan la mayor cantidad de residuos sólidos?” y tomada por Diana Marcelo (1)
 
+# Contexto social
+## Nivel mundial
+A medida que se incrementan las personas en diferentes puntos del mundo  aumenta la tasa de industrialización y urbanización. La forma  de vivienda y consumo proporciona una gama amplia de variedad de productos, a causa de ello, se genera un aumento de  residuos sólidos por cada habitante entre el 2016 y 2050 según el Banco mundial se estima un 70% de incremento de residuos sólidos[].
+
 ## Definición de la problemática
 ### Identificación del problema
 El rebasamiento de residuos sólidos en los contenedores urbanos de Lima Metropolitana, lo cual genera impactos negativos en la salud pública, el medio ambiente y la calidad de vida de los habitantes. [[2]](https://elcomercio.pe/lima/sucesos/que-distritos-limenos-generan-la-mayor-cantidad-de-residuos-solidos-basura-noticia/?ref=ecr)
