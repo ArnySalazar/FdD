@@ -92,7 +92,7 @@ La justificación radica en su impacto directo en la salud pública, el medio am
 
 # Journey Map
 
-![]()
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Journey_Map.png)
 **Figura 9:** Creacion Propia
 
 ## Bibliografía
