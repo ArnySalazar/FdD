@@ -28,3 +28,25 @@ Este artículo trata sobre el desafío de gestionar eficientemente la recolecci�
 
 **Figura 4:** Componentes de Hardware. Muestra que cada camión cuenta con un dispositivo que incluye un microcontrolador ESP32, módulos de comunicación GSM y GPS, así como conexiones a transceptores CAN, módulos RS485 y SDCard para almacenar datos sin procesar como respaldo, junto con un LED RGB para indicar el estado del módulo. Fue extraído de: “An IoT solution for load monitoring and tracking of garbage-truck fleets” y elaborado por Maia, J., & Yudi, J (2). 
 
+<h3 align="center"> Artículo 3: Recolección de Residuos Sólidos como servicio mediante solución IoT para Ciudades Inteligentes </h3>
+
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img1.png" width="520px"></p>
+
+**Figura 5:** Portada del tercer artículo consultado. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. (3).
+
+Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas) para la gestión de residuos sólidos en ciudades inteligentes. Este sistema permite monitorear los contenedores de basura, programar dinámicamente y optimizar las rutas de los camiones recolectores de basura. Los contenedores están equipados con dispositivos integrados de bajo costo, a través de un prototipo de hardware con sensores ultrasonidos (HC-SR04) para medir el nivel de basura en los contenedores, los módulos GPS (EM-506 GPS receiver) para obtener la ubicación en tiempo real de los contenedores, y los módulos Wi-Fi (ESP8266) para la conexión a la red y la transmisión de datos a la nube. Además,utiliza un algoritmo de ruta más corta para calcular las rutas óptimas. La información recopilada se visualiza mediante una aplicación móvil y una plataforma web, lo que facilita el seguimiento y control por parte de los conductores de los camiones de recolección y las autoridades municipales. La integración de tecnologías como ThingSpeak para el almacenamiento en la nube y Google Maps API para la planificación de rutas contribuye a una gestión más inteligente y eficiente de los residuos, mejorando la utilización de recursos y la recolección de datos en tiempo real. (3)
+
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img2.png" width="520px"></p>
+
+**Figura 6:** Sistema propuesto y Patrón de transmisión. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. (3). 
+
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img3.png" width="520px"></p>
+
+**Figura 7:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. (3). 
+
+
+
+
+
+
+
