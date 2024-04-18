@@ -98,7 +98,7 @@ PATENTES
 
 **Fecha de publicación**: 2019-01-17
 
-IMAGEN(1)
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente1.png" width="600px"></p>
 
 **Descripción**:
 
@@ -114,7 +114,7 @@ Más información.-US020190019167A120190117 (storage.googleapis.com)
 
 **Fecha de publicación**: 2010-02-16
 
-IMAGEN(2)
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente2.png" width="600px"></p>
 
 **Descripción**:
 
