@@ -85,7 +85,7 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 
 PATENTES
 ----------------------------------------------------------------------------------------------------------------------------------
-Patente N° 1
+**Patente N°1**
 
 **Dispositivo, sistema y método para la monitorización, control y optimización de un servicio de recogida de residuos** (US20190019167A1).
 
@@ -101,7 +101,7 @@ La gestión eficiente de residuos en flotas de camiones de basura es fundamental
 
 Más información.-US020190019167A120190117 (storage.googleapis.com)
 
-Patente N° 2
+**Patente N°2**
 
 **Sistema de gestión del tráfico**(US7663505B2).
 
