@@ -45,6 +45,7 @@ Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas
 **Figura 7:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. (3). 
 
 ## Contexto Comercial 
+<h3 align="center"> Dispositivos en el mercado con funciones relacionadas a la problemática </h3>
 **1. Cerca: Sistema de Gestión de Transporte (TMS):**
 
 Se trata de un software TMS el cual permite tener una gestión inteligente acerca de las rutas transportadoras que trabaja con diversas compañías con el fin de agilizar las rutas de entrega.
