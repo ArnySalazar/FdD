@@ -63,7 +63,7 @@ Entre sus funciones tenemos:
 
 **2. RoutingMaps: Software optimizador de rutas de recolección de residuos**
 
-Definimos este software como un sistema que tiene la capacidad de abarcar enfoques distintos de las empresas que lo adquieren, si es que nosotros deseamos optimizar la ruta de recogida de residuos, este nos permitirá hacer un adecuado y detallado seguimiento a cada etapa; además, cuenta con mapas actualizados gracias a Google Maps, asegurando que los conductores puedan tomar el mejor camino. Finalmente, puede evaluar la ruta y mejorar su planificación, incluso asignar automáticamente los puntos de recogida de residuos. Todas estas herramientas nos dan como resultado una reducción en distancias recorridas, tiempo de recojo y por tanto, reducción en las emisiones de CO2 de parte de los vehículos. (5)
+Definimos este software como un sistema que tiene la capacidad de abarcar enfoques distintos de las empresas que lo adquieren, si es que nosotros deseamos optimizar la ruta de recogida de residuos, este nos permitirá hacer un adecuado y detallado seguimiento a cada etapa; además, cuenta con mapas actualizados gracias a Google Maps, asegurando que los conductores puedan tomar el mejor camino. Finalmente, puede evaluar la ruta y mejorar su planificación, incluso asignar automáticamente los puntos de recogida de residuos. Todas estas herramientas nos dan como resultado una reducción en distancias recorridas, tiempo de recojo y por tanto, reducción en las emisiones de CO2 de parte de los vehículos. ![[5]](https://www.routingmaps.com/ventajas/)
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Tech4log-Routingmaps.png)
 **Figura 9:** Logo de la compañía. Fue extraído de 
@@ -78,7 +78,8 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 - Emisión automática del Informe de visita realizada enviado al correo.
 - Posibilidad de capturar evidencia fotográfica de cada residuo recolectado.
 - Fecha y hora exactas de los registros de cada recolección;
-- Mapa para comprobar la ruta ejecutada vs la programada. (6)
+- Mapa para comprobar la ruta ejecutada vs la programada. ![[6]]([https://www.routingmaps.com/ventajas/](https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
+))
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Logo-MeuResiduo.png)
 **Figura 10:** Logo de la compañía. Fue extraído de 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/meuresiduo2.png)
