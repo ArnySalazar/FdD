@@ -100,7 +100,7 @@ PATENTES
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente1.png" width="500px"></p>
 
-**Figura 12:** .-Sistema de un manejo adecuado de residuos sólidos con la ayuda de dispositivos descritos en la 
+**Figura 12:** .-Sistema de un manejo de residuos sólidos en  las rutas de camiones con la ayuda de dispositivos descritos en la en figura.
 
 **Descripción**:
 
