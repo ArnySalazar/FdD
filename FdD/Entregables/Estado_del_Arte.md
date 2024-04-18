@@ -146,6 +146,10 @@ Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Lista_de_requerimientos_N.png)
 
+## Definición de Solución a Implementar
+
+Nuestra solución busca mejorar la recolección de residuos mediante sensores IoT que identifican contenedores prioritarios. Utilizando el algoritmo de Dijkstra para calcular rutas óptimas, priorizamos la eficiencia en la asignación de recursos y minimizamos los trayectos vacíos. Los beneficios son diversos: reducción significativa de emisiones contaminantes, ahorro de tiempo y costos operativos, y una mejora general en la eficiencia de nuestras operaciones. Esta estrategia no solo promueve prácticas ambientales responsables, sino que también contribuye al desarrollo sostenible de nuestra comunidad, marcando un paso importante hacia la gestión de residuos más eficiente y respetuosa con el medio ambiente..
+
 ## Referencias:
 
 [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) Hannan, M. A., Begum, R. A., Al-Shetwi, A. Q., Ker, P. J., Al Mamun, M. A., Hussain, A., … Mahlia, T. M. I. (2020). Waste collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals. Sustainable Cities and Society, 102393. doi:10.1016/j.scs.2020.102393
