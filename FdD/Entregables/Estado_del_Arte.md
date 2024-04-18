@@ -119,7 +119,7 @@ Más información.-[[7]](https://patentimages.storage.googleapis.com/52/34/1d/61
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente2.png" width="500px"></p>
 
-**Figura 13:** .- Funcionamiento del sistema de gestión de tráfico en un flujo descriptivo.
+**Figura 13:** .- Funcionamiento de un sistema de gestión de tráfico en un flujo descriptivo.
 
 **Descripción**:
 
