@@ -82,7 +82,8 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 **Figura 10:** Logo de la compañía. Fue extraído de 
 
 **Figura 11:** Apariencia del aplicativo. Fue extraído de 
-PATENTES
+
+##PATENTES
 ----------------------------------------------------------------------------------------------------------------------------------
 Patente N° 1
 Dispositivo, sistema y método para la monitorización, control y optimización de un servicio de recogida de residuos (US20190019167A1).
