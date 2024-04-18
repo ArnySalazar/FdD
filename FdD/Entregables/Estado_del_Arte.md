@@ -44,7 +44,49 @@ Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas
 
 **Figura 7:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. (3). 
 
-## CONTEXTO COMERCIAL
+## Contexto Comercial 
+**1. Cerca: Sistema de Gestión de Transporte (TMS):**
+
+Se trata de un software TMS el cual permite tener una gestión inteligente acerca de las rutas transportadoras que trabaja con diversas compañías con el fin de agilizar las rutas de entrega.
+
+Entre sus funciones tenemos:
+- Administración del transporte y gestión de flotas incluyendo costos.
+- Planificación óptima de la distribución de productos y territorios con el menor costo logístico.
+- Yard management en conjunto con un control de ingresos y afinación de viajes por prioridad.
+- Monitoreo logístico para verificar el cumplimiento de rutas en vivo.
+- Dashboards con estadísticas fácilmente configurables a cada necesidad. (4)
+
+  
+**Figura 8:** Logo de la compañía. Fue extraído de 
+
+**2. RoutingMaps: Software optimizador de rutas de recolección de residuos**
+
+Definimos este software como un sistema que tiene la capacidad de abarcar enfoques distintos de las empresas que lo adquieren, si es que nosotros deseamos optimizar la ruta de recogida de residuos, este nos permitirá hacer un adecuado y detallado seguimiento a cada etapa; además, cuenta con mapas actualizados gracias a Google Maps, asegurando que los conductores puedan tomar el mejor camino. Finalmente, puede evaluar la ruta y mejorar su planificación, incluso asignar automáticamente los puntos de recogida de residuos. Todas estas herramientas nos dan como resultado una reducción en distancias recorridas, tiempo de recojo y por tanto, reducción en las emisiones de CO2 de parte de los vehículos. (5)
+
+**Figura 9:** Logo de la compañía. Fue extraído de 
+
+**3. miResiduo: aplicación que gestiona rutas y registra la recolección de residuos**
+
+Esta plataforma digital, que consiste en un software de gestión de residuos en conjunto a una aplicación integrada desarrollada con el fin de capturar datos de recolección de residuos, brindando información precisa, confiable y actualizada sobre la gestión de desechos de manera eficiente. 
+Algunos de los beneficios de implementar esta app en empresas recolectoras son:
+
+- Trazabilidad de los residuos recolectados y destinados.
+- Sincronización de datos recolectados en campo en el sistema web
+- Emisión automática del Informe de visita realizada enviado al correo.
+- Posibilidad de capturar evidencia fotográfica de cada residuo recolectado.
+- Fecha y hora exactas de los registros de cada recolección;
+- Mapa para comprobar la ruta ejecutada vs la programada. (6)
+
+**Figura 10:** Logo de la compañía. Fue extraído de 
+
+**Figura 11:** Apariencia del aplicativo. Fue extraído de 
+
+Referencias:
+
+[4] https://www.cercatechnology.com/mx/portfolio/tms/
+[5] https://www.routingmaps.com/ventajas/
+[6]https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
+
 
 
 
