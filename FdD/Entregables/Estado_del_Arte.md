@@ -134,13 +134,13 @@ Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente3.png" width="800px"></p>
 
 **Figura 14:** .- Descripción Patente 3. [[9]] (https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
-
+> (Primer diagrama de flujo para la recolección de basura escalable de acuerdo con algunas implementaciones- ejemplo de canalización de secuencia para la recogida de basura escalable)
 **Patente N°4**
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente4.png" width="800px"></p>
 
 **Figura 15:** .- Descripción Patente 4. [[10]] (https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
-
+> (Diagrama de bloques de un principio de un sistema inteligente de informatización y colaboración múltiple de vehículos de recogida de basura urbana según una realización preferida de la presente invención.)
 ## Referencias:
 
 [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) Hannan, M. A., Begum, R. A., Al-Shetwi, A. Q., Ker, P. J., Al Mamun, M. A., Hussain, A., … Mahlia, T. M. I. (2020). Waste collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals. Sustainable Cities and Society, 102393. doi:10.1016/j.scs.2020.102393
