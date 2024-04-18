@@ -106,7 +106,7 @@ PATENTES
 
 La gestión eficiente de residuos en flotas de camiones de basura es fundamental para los servicios de recolección. Un dispositivo de medición de residuos, equipado con cámaras de luz visible, sensores de volumen y un controlador, se despliega frente a la tolva del camión. Su función es medir el volumen de residuos en la tolva utilizando sensores. El método calcula el volumen de residuos descargados del contenedor restando la medición previa a la carga de la medición posterior. Este sistema optimiza y supervisa el funcionamiento de la flota de camiones de basura, basándose en las mediciones proporcionadas por los dispositivos de medición de residuos.
 
-Más información.-US020190019167A120190117 (storage.googleapis.com)
+Más información.-US020190019167A120190117 [[storage.googleapis.com]](storage.googleapis.com)
 
 **Patente N°2**
 
@@ -124,7 +124,7 @@ Más información.-US020190019167A120190117 (storage.googleapis.com)
 
 Un dispositivo inteligente de control de tráfico comunica datos a los vehículos cercanos sobre su estado actual y previsto. Esto permite que los vehículos ajusten su velocidad para evitar llegar al dispositivo de control de tráfico hasta que se permita el paso, evitando paradas innecesarias y aceleraciones repetidas. Además, en otras implementaciones, el dispositivo o los sistemas de control de tráfico reciben información de los vehículos y la transmiten a otros vehículos.
 
-Más información.-1499084960126058918-07663505 [[storage.googleapis.com]]
+Más información.-1499084960126058918-07663505 [[storage.googleapis.com]](storage.googleapis.com)
 
 ## Referencias:
 
