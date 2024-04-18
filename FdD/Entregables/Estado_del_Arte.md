@@ -4,19 +4,19 @@
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule1_img1.png" width="520px"></p>
 
-**Figura 1:** Portada del primer artículo consultado. Fue extraído de: “Waste  collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals” y elaborado por M.A. Hannana, R.A. Begumb, Ali Q. Al-Shetwic, P.J. Kera, M.A. Al Mamund, Aini Hussaind, Hassan Basrie, T.M.I. Mahlia (1). 
+**Figura 1:** Portada del primer artículo consultado. Fue extraído de: “Waste  collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals” y elaborado por M.A. Hannana, R.A. Begumb, Ali Q. Al-Shetwic, P.J. Kera, M.A. Al Mamund, Aini Hussaind, Hassan Basrie, T.M.I. Mahlia 1. ![[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) 
 
-Este artículo propone un modelo de optimización de rutas de recolección de residuos sólidos con el fin de mejorar la eficiencia de recolección y su vinculación con los objetivos de desarrollo sostenible (SDGs). Describen un modelo de programación lineal entera mixta (MILP) y se formulan modelos matemáticos que tienen en cuenta variables como la capacidad de los vehículos de recolección, la distancia entre contenedores y la cantidad de residuos recolectados.; que utiliza dos enfoques: optimización de ruta fija (FRO) con datos estáticos y optimización de ruta variable (VRO) con datos en tiempo real. Además, se calcula el consumo de combustible y las emisiones de carbono asociadas a la recolección de residuos, con el objetivo de reducir los costos y el impacto ambiental de esta actividad. Utilizó datos de simulación para generar eficiencia en la recolección, reducción de costos y emisiones. Sus resultados muestran que VRO mejoró la eficiencia de recolección en un 26.08%, logrando ahorros de costos del 44.44% y una reducción de emisiones de carbono del 17.60% al considerar un nivel mínimo de llenado del 70%.  (1).
+Este artículo propone un modelo de optimización de rutas de recolección de residuos sólidos con el fin de mejorar la eficiencia de recolección y su vinculación con los objetivos de desarrollo sostenible (SDGs). Describen un modelo de programación lineal entera mixta (MILP) y se formulan modelos matemáticos que tienen en cuenta variables como la capacidad de los vehículos de recolección, la distancia entre contenedores y la cantidad de residuos recolectados.; que utiliza dos enfoques: optimización de ruta fija (FRO) con datos estáticos y optimización de ruta variable (VRO) con datos en tiempo real. Además, se calcula el consumo de combustible y las emisiones de carbono asociadas a la recolección de residuos, con el objetivo de reducir los costos y el impacto ambiental de esta actividad. Utilizó datos de simulación para generar eficiencia en la recolección, reducción de costos y emisiones. Sus resultados muestran que VRO mejoró la eficiencia de recolección en un 26.08%, logrando ahorros de costos del 44.44% y una reducción de emisiones de carbono del 17.60% al considerar un nivel mínimo de llenado del 70%. [1].
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule1_img2.png" width="600px"></p>
 
-**Tabla 1:** Reducción de emisiones de CO2 para VRO y FRO. La tabla muestra que al aplicar el sistema desarrollado, los efectos ambientales disminuirán debido a la menor distancia recorrida y menos tiempo de permanencia en la carretera que en la condición actual, lo que eventualmente conduce a una reducción de las emisiones. Fue extraído de: “Waste  collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals” y elaborado por M.A. Hannana, R.A. Begumb, Ali Q. Al-Shetwic, P.J. Kera, M.A. Al Mamund, Aini Hussaind, Hassan Basrie, T.M.I. Mahlia (1). 
+**Tabla 1:** Reducción de emisiones de CO2 para VRO y FRO. La tabla muestra que al aplicar el sistema desarrollado, los efectos ambientales disminuirán debido a la menor distancia recorrida y menos tiempo de permanencia en la carretera que en la condición actual, lo que eventualmente conduce a una reducción de las emisiones. Fue extraído de: “Waste  collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals” y elaborado por M.A. Hannana, R.A. Begumb, Ali Q. Al-Shetwic, P.J. Kera, M.A. Al Mamund, Aini Hussaind, Hassan Basrie, T.M.I. Mahlia [1]. 
 
 <h3 align="center"> Artículo 2: Una solución de IoT para el seguimiento de la carga de flotas de camiones de basura </h3>
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule2_img1.png" width="520px"></p>
 
-**Figura 2:** Portada del segundo artículo consultado. Fue extraído de: “An IoT solution for load monitoring and tracking of garbage-truck fleets” y elaborado por Maia, J., & Yudi, J (2). 
+**Figura 2:** Portada del segundo artículo consultado. Fue extraído de: “An IoT solution for load monitoring and tracking of garbage-truck fleets” y elaborado por Maia, J., & Yudi, J [2]. 
 
 Este artículo trata sobre el desafío de gestionar eficientemente la recolección de residuos sólidos en áreas urbanas, proponiendo una solución basada en Internet de las Cosas (IoT). Cuyo objetivo es monitorear la ubicación y la carga de los camiones de recolección en tiempo real para optimizar dinámicamente las rutas de recolección. Se utiliza tecnología IoT para medir la carga del camión y determinar su posición, enviando estos datos a una solución de computación en la nube. La implementación se probó con éxito en el campo, utilizando una flota real en operaciones diarias. La solución mejora la eficiencia operativa, reduce costos y evita problemas como multas por sobrepeso. Tiene Azure como plataforma de nube pública, aprovechando servicios como Azure IoT Hub y Time Series Insights para el procesamiento de datos y generación de insights. Además, se detalla la arquitectura del sistema, incluyendo componentes de borde como microcontroladores ESP32 y sensores de peso y posición (2). 
 
@@ -120,8 +120,20 @@ Un dispositivo inteligente de control de tráfico comunica datos a los vehículo
 Más información.-1499084960126058918-07663505 (storage.googleapis.com).
 
 Referencias:
+[1] Hannan, M. A., Begum, R. A., Al-Shetwi, A. Q., Ker, P. J., Al Mamun, M. A., Hussain, A., … Mahlia, T. M. I. (2020). Waste collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals. Sustainable Cities and Society, 102393. doi:10.1016/j.scs.2020.102393
+
+[2] Maia, J., & Yudi, J. (2020). An IoT solution for load monitoring and tracking of garbage-truck fleets. 2020 IEEE Conference on Industrial Cyberphysical Systems (ICPS). doi:10.1109/icps48405.2020.9274699
+
+https://ieeexplore.ieee.org/document/9274699
+
+[3] Chaudhari, S. S., & Bhole, V. Y. (2018). Solid Waste Collection as a Service using IoT-Solution for Smart Cities. 2018 International Conference on Smart City and Emerging Technology (ICSCET). doi:10.1109/icscet.2018.8537326
+
+https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors
+
 [4] https://www.cercatechnology.com/mx/portfolio/tms/
+
 [5] https://www.routingmaps.com/ventajas/
+
 [6]https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
 
 
