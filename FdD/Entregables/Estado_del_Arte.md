@@ -141,6 +141,11 @@ Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84
 
 **Figura 15:** .- Descripción Patente 4. [[10]] (https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
 > (Diagrama de bloques de un principio de un sistema inteligente de informatización y colaboración múltiple de vehículos de recogida de basura urbana según una realización preferida de la presente invención.)
+
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Lista_de_requerimientos_F.png)
+
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Lista_de_requerimientos_N.png)
+
 ## Referencias:
 
 [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) Hannan, M. A., Begum, R. A., Al-Shetwi, A. Q., Ker, P. J., Al Mamun, M. A., Hussain, A., … Mahlia, T. M. I. (2020). Waste collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals. Sustainable Cities and Society, 102393. doi:10.1016/j.scs.2020.102393
