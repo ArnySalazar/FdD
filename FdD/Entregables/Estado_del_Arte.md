@@ -120,15 +120,12 @@ Un dispositivo inteligente de control de tráfico comunica datos a los vehículo
 Más información.-1499084960126058918-07663505 (storage.googleapis.com).
 
 Referencias:
-[1] Hannan, M. A., Begum, R. A., Al-Shetwi, A. Q., Ker, P. J., Al Mamun, M. A., Hussain, A., … Mahlia, T. M. I. (2020). Waste collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals. Sustainable Cities and Society, 102393. doi:10.1016/j.scs.2020.102393
 
-[2] Maia, J., & Yudi, J. (2020). An IoT solution for load monitoring and tracking of garbage-truck fleets. 2020 IEEE Conference on Industrial Cyberphysical Systems (ICPS). doi:10.1109/icps48405.2020.9274699
+[[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) Hannan, M. A., Begum, R. A., Al-Shetwi, A. Q., Ker, P. J., Al Mamun, M. A., Hussain, A., … Mahlia, T. M. I. (2020). Waste collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals. Sustainable Cities and Society, 102393. doi:10.1016/j.scs.2020.102393
 
-https://ieeexplore.ieee.org/document/9274699
+[[2]](https://ieeexplore.ieee.org/document/9274699)  Maia, J., & Yudi, J. (2020). An IoT solution for load monitoring and tracking of garbage-truck fleets. 2020 IEEE Conference on Industrial Cyberphysical Systems (ICPS). doi:10.1109/icps48405.2020.9274699
 
-[3] Chaudhari, S. S., & Bhole, V. Y. (2018). Solid Waste Collection as a Service using IoT-Solution for Smart Cities. 2018 International Conference on Smart City and Emerging Technology (ICSCET). doi:10.1109/icscet.2018.8537326
-
-https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors
+[[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors) Chaudhari, S. S., & Bhole, V. Y. (2018). Solid Waste Collection as a Service using IoT-Solution for Smart Cities. 2018 International Conference on Smart City and Emerging Technology (ICSCET). doi:10.1109/icscet.2018.8537326
 
 [4] https://www.cercatechnology.com/mx/portfolio/tms/
 
