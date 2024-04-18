@@ -92,7 +92,7 @@ PATENTES
 ----------------------------------------------------------------------------------------------------------------------------------
 **Patente N°1**
 
-**Dispositivo, sistema y método para la monitorización, control y optimización de un servicio de recogida de residuos** (US20190019167A1).
+**Dispositivo, sistema y método para la monitorización, control y optimización de un servicio de recogida de residuos sólidos** (US20190019167A1).
 
 **Inventor/es**: Edy Candel, Shlomo Akiva Ashkenazi
 
