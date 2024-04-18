@@ -56,7 +56,7 @@ Entre sus funciones tenemos:
 - Planificación óptima de la distribución de productos y territorios con el menor costo logístico.
 - Yard management en conjunto con un control de ingresos y afinación de viajes por prioridad.
 - Monitoreo logístico para verificar el cumplimiento de rutas en vivo.
-- Dashboards con estadísticas fácilmente configurables a cada necesidad. [](https://www.cercatechnology.com/mx/portfolio/tms/)
+- Dashboards con estadísticas fácilmente configurables a cada necesidad. [[4]](https://www.cercatechnology.com/mx/portfolio/tms/)
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cerca.png)  
 
