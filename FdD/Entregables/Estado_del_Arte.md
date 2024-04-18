@@ -141,7 +141,7 @@ Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84
 
 **Figura 15:** .- Descripción Patente 4. [[10]] (https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
 > (Diagrama de bloques de un principio de un sistema inteligente de informatización y colaboración múltiple de vehículos de recogida de basura urbana según una realización preferida de la presente invención.)
-
+LISTA DE REQUERIMENTOS
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Lista_de_requerimientos_F.png)
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Lista_de_requerimientos_N.png)
