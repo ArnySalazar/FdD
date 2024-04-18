@@ -121,13 +121,11 @@ Más información.-[[7]](https://patentimages.storage.googleapis.com/52/34/1d/61
 
 **Figura 13:** .- Funcionamiento del sistema de gestión de tráfico en un flujo descriptivo.
 
-Portada del primer artículo consultado. Fue extraído de [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) 
-
 **Descripción**:
 
 Un dispositivo inteligente de control de tráfico comunica datos a los vehículos cercanos sobre su estado actual y previsto. Esto permite que los vehículos ajusten su velocidad para evitar llegar al dispositivo de control de tráfico hasta que se permita el paso, evitando paradas innecesarias y aceleraciones repetidas. Además, en otras implementaciones, el dispositivo o los sistemas de control de tráfico reciben información de los vehículos y la transmiten a otros vehículos.
 
-Más información.-[1499084960126058918-07663505 [[storage.googleapis.com]](storage.googleapis.com)]
+Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84b13d383f3c57/US7663505.pdf)
 
 ## Referencias:
 
@@ -144,6 +142,10 @@ Más información.-[1499084960126058918-07663505 [[storage.googleapis.com]](stor
 [6]https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
 
 [[7]](https://patentimages.storage.googleapis.com/52/34/1d/610f1b2659b17b/US20190019167A1.pdf)Candel et, A., & Pub Date, J. (s/f). ( ) Patent Application Publication ( ) Pub . No . : US / A1. Googleapis.com. Recuperado el 18 de abril de 2024, de 
+
+[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84b13d383f3c57/US7663505.pdf)Publicover, M. W. (2010). Traffic management device and system (Patent Núm. 7663505). En US Patent (Núm. 7663505).
+
+
 
 
 
