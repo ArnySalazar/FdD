@@ -46,6 +46,7 @@ Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas
 
 ## Contexto Comercial 
 <h3 align="center"> Dispositivos en el mercado con funciones relacionadas a la problemática </h3>
+
 **1. Cerca: Sistema de Gestión de Transporte (TMS):**
 
 Se trata de un software TMS el cual permite tener una gestión inteligente acerca de las rutas transportadoras que trabaja con diversas compañías con el fin de agilizar las rutas de entrega.
