@@ -129,11 +129,15 @@ Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84
 
 **Patente N°3**
 
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente3.png" width="500px"></p>
 
-
+**Figura 14:** .- Funcionamiento de un sistema de gestión de tráfico en un flujo descriptivo.
 
 **Patente N°4**
 
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente4.png" width="500px"></p>
+
+**Figura 15:** .- Funcionamiento de un sistema de gestión de tráfico en un flujo descriptivo.
 
 ## Referencias:
 
