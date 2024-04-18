@@ -133,13 +133,13 @@ Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente3.png" width="800px"></p>
 
-**Figura 14:** .- Funcionamiento de un sistema de gestión de tráfico en un flujo descriptivo.
+**Figura 14:** .- Descripción Patente 3. [[9]] (https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
 
 **Patente N°4**
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente4.png" width="800px"></p>
 
-**Figura 15:** .- Funcionamiento de un sistema de gestión de tráfico en un flujo descriptivo.
+**Figura 15:** .- Descripción Patente 4. [[10]] (https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
 
 ## Referencias:
 
@@ -159,9 +159,11 @@ Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84
 
 [[8]](https://patentimages.storage.googleapis.com/05/3b/83/84b13d383f3c57/US7663505.pdf)Publicover, M. W. (2010). Traffic management device and system (Patent Núm. 7663505). En US Patent (Núm. 7663505).
 
+[[9]] (https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
+D. et Al, “( United States Patent”, Googleapis.com, 2013. [En línea]. Disponible en: https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf. [Consultado: 14-abr-2024].
 
-
-
+[[10]] (https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
+L. et Al, “( ) United States Patent”, Googleapis.com. [En línea]. Disponible en: https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf. [Consultado: 14-abr-2024].
 
 
 
