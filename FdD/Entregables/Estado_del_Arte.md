@@ -144,6 +144,7 @@ Más información.-[1499084960126058918-07663505 [[storage.googleapis.com]](stor
 [5] https://www.routingmaps.com/ventajas/
 
 [6]https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
+
 [[7]](https://patentimages.storage.googleapis.com/52/34/1d/610f1b2659b17b/US20190019167A1.pdf)Candel et, A., & Pub Date, J. (s/f). ( ) Patent Application Publication ( ) Pub . No . : US / A1. Googleapis.com. Recuperado el 18 de abril de 2024, de 
 
 
