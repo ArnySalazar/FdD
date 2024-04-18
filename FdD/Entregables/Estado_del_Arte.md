@@ -100,7 +100,9 @@ PATENTES
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente1.png" width="500px"></p>
 
-**Figura 12:** Portada del primer artículo consultado. Fue extraído de [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) 
+**Figura 12:** .-Sistema de un manejo adecuado de residuos sólidos con la ayuda de dispositivos descritos en la figura 12.
+
+Portada del primer artículo consultado. Fue extraído de [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) 
 
 **Descripción**:
 
@@ -118,7 +120,9 @@ Más información.-US020190019167A120190117 [[storage.googleapis.com]](storage.g
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente2.png" width="500px"></p>
 
-**Figura 13:** Portada del primer artículo consultado. Fue extraído de [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) 
+**Figura 13:** .- Funcionamiento del sistema de gestión de tráfico en un flujo descriptivo.
+
+Portada del primer artículo consultado. Fue extraído de [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) 
 
 **Descripción**:
 
@@ -139,6 +143,7 @@ Más información.-1499084960126058918-07663505 [[storage.googleapis.com]](stora
 [5] https://www.routingmaps.com/ventajas/
 
 [6]https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
+
 
 
 
