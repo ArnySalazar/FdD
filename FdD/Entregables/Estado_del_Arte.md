@@ -98,7 +98,9 @@ PATENTES
 
 **Fecha de publicación**: 2019-01-17
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente1.png" width="600px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente1.png" width="500px"></p>
+
+**Figura 12:** Portada del primer artículo consultado. Fue extraído de [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) 
 
 **Descripción**:
 
@@ -114,13 +116,15 @@ Más información.-US020190019167A120190117 (storage.googleapis.com)
 
 **Fecha de publicación**: 2010-02-16
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente2.png" width="600px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente2.png" width="500px"></p>
+
+**Figura 13:** Portada del primer artículo consultado. Fue extraído de [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) 
 
 **Descripción**:
 
 Un dispositivo inteligente de control de tráfico comunica datos a los vehículos cercanos sobre su estado actual y previsto. Esto permite que los vehículos ajusten su velocidad para evitar llegar al dispositivo de control de tráfico hasta que se permita el paso, evitando paradas innecesarias y aceleraciones repetidas. Además, en otras implementaciones, el dispositivo o los sistemas de control de tráfico reciben información de los vehículos y la transmiten a otros vehículos.
 
-Más información.-1499084960126058918-07663505 (storage.googleapis.com).
+Más información.-1499084960126058918-07663505 [[storage.googleapis.com]]
 
 ## Referencias:
 
