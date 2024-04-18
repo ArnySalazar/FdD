@@ -44,6 +44,8 @@ Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas
 
 **Figura 7:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. (3). 
 
+## CONTEXTO COMERCIAL
+
 
 
 
