@@ -59,14 +59,16 @@ Entre sus funciones tenemos:
 - Dashboards con estadísticas fácilmente configurables a cada necesidad. [](https://www.cercatechnology.com/mx/portfolio/tms/)
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cerca.png)  
-**Figura 8:** Logo de la compañía. Fue extraído de 
+
+**Figura 8:** Logo de la compañía. Fue extraído de "Sistema de Gestión de Transporte (TMS) - Cerca Technology".
 
 **2. RoutingMaps: Software optimizador de rutas de recolección de residuos**
 
 Definimos este software como un sistema que tiene la capacidad de abarcar enfoques distintos de las empresas que lo adquieren, si es que nosotros deseamos optimizar la ruta de recogida de residuos, este nos permitirá hacer un adecuado y detallado seguimiento a cada etapa; además, cuenta con mapas actualizados gracias a Google Maps, asegurando que los conductores puedan tomar el mejor camino. Finalmente, puede evaluar la ruta y mejorar su planificación, incluso asignar automáticamente los puntos de recogida de residuos. Todas estas herramientas nos dan como resultado una reducción en distancias recorridas, tiempo de recojo y por tanto, reducción en las emisiones de CO2 de parte de los vehículos. [[5]](https://www.routingmaps.com/ventajas/)
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Tech4log-Routingmaps.png)
-**Figura 9:** Logo de la compañía. Fue extraído de 
+
+**Figura 9:** Logo de la compañía. Fue extraído de "Software de planificación de rutas de transporte".
 
 **3. miResiduo: aplicación que gestiona rutas y registra la recolección de residuos**
 
@@ -78,15 +80,15 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 - Emisión automática del Informe de visita realizada enviado al correo.
 - Posibilidad de capturar evidencia fotográfica de cada residuo recolectado.
 - Fecha y hora exactas de los registros de cada recolección;
-- Mapa para comprobar la ruta ejecutada vs la programada. [[6]]([https://www.routingmaps.com/ventajas/](https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
-))
+- Mapa para comprobar la ruta ejecutada vs la programada. [[6]](https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
+  )
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Logo-MeuResiduo.png)
 
-**Figura 10:** Logo de la compañía. Fue extraído de 
+**Figura 10:** Logo de la compañía. Fue extraído de "APP para gestión de rutas y registros de recolecciones de residuos"
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/meuresiduo2.png)
 
-**Figura 11:** Apariencia del aplicativo. Fue extraído de 
+**Figura 11:** Apariencia del aplicativo. Fue extraído de "APP para gestión de rutas y registros de recolecciones de residuos"
 
 PATENTES
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -147,11 +149,11 @@ Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84
 
 [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors) Chaudhari, S. S., & Bhole, V. Y. (2018). Solid Waste Collection as a Service using IoT-Solution for Smart Cities. 2018 International Conference on Smart City and Emerging Technology (ICSCET). doi:10.1109/icscet.2018.8537326
 
-[4] https://www.cercatechnology.com/mx/portfolio/tms/
+[4] “SUPPLY CHAIN EXECUTION - Cerca technology,” Cerca technology, 2021. https://www.cercatechnology.com/mx/portfolio/tms/ (accessed Apr. 18, 2024).
 
-[5] https://www.routingmaps.com/ventajas/
+[5] “Ventajas de RoutingMaps para gestionar tus flotas y las rutas de transporte,” RoutingMaps, Oct. 16, 2017. https://www.routingmaps.com/ventajas/ (accessed Apr. 18, 2024).
 
-[6]https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
+[6] “APP para gestión de rutas y registros de recolecciones de residuos - meuResíduo”. meuResíduo -. Accedido el 18 de abril de 2024. [En línea]. Disponible: https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
 
 [[7]](https://patentimages.storage.googleapis.com/52/34/1d/610f1b2659b17b/US20190019167A1.pdf)Candel et, A., & Pub Date, J. (s/f). ( ) Patent Application Publication ( ) Pub . No . : US / A1. Googleapis.com. Recuperado el 18 de abril de 2024, de 
 
