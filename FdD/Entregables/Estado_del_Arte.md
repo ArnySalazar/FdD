@@ -83,6 +83,7 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 
 **Figura 11:** Apariencia del aplicativo. Fue extraído de 
 PATENTES
+----------------------------------------------------------------------------------------------------------------------------------
 Patente N° 1
 Dispositivo, sistema y método para la monitorización, control y optimización de un servicio de recogida de residuos (US20190019167A1).
 -Inventor/es: Edy Candel, Shlomo Akiva Ashkenazi
@@ -90,6 +91,7 @@ Dispositivo, sistema y método para la monitorización, control y optimización 
 IMAGEN(1)
 La gestión eficiente de residuos en flotas de camiones de basura es fundamental para los servicios de recolección. Un dispositivo de medición de residuos, equipado con cámaras de luz visible, sensores de volumen y un controlador, se despliega frente a la tolva del camión. Su función es medir el volumen de residuos en la tolva utilizando sensores. El método calcula el volumen de residuos descargados del contenedor restando la medición previa a la carga de la medición posterior. Este sistema optimiza y supervisa el funcionamiento de la flota de camiones de basura, basándose en las mediciones proporcionadas por los dispositivos de medición de residuos.
 Más información.-US020190019167A120190117 (storage.googleapis.com)
+
 Patente N° 2
 Sistema de gestión del tráfico (US7663505B2).
 Inventor/es: Mark W. Publicover
