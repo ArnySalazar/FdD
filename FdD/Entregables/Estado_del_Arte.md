@@ -80,9 +80,12 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 - Fecha y hora exactas de los registros de cada recolección;
 - Mapa para comprobar la ruta ejecutada vs la programada. [[6]]([https://www.routingmaps.com/ventajas/](https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
 ))
+
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Logo-MeuResiduo.png)
+
 **Figura 10:** Logo de la compañía. Fue extraído de 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/meuresiduo2.png)
+
 **Figura 11:** Apariencia del aplicativo. Fue extraído de 
 
 PATENTES
