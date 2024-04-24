@@ -93,7 +93,7 @@ La justificación radica en su impacto directo en la salud pública, el medio am
 
 # Diagrama de Ishikawa
 
-![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Ishikawa.png)
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Ishikawaf.png)
 
 **Gráfico 4:** Creción propia
 
