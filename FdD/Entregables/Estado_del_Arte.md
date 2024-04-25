@@ -12,11 +12,12 @@ Este artículo propone un modelo de optimización de rutas de recolección de re
 
 **Tabla 1:** Reducción de emisiones de CO2 para VRO y FRO. La tabla muestra que al aplicar el sistema desarrollado, los efectos ambientales disminuirán debido a la menor distancia recorrida y menos tiempo de permanencia en la carretera que en la condición actual, lo que eventualmente conduce a una reducción de las emisiones. Fue extraído de: “Waste  collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals” y elaborado por M.A. Hannana, R.A. Begumb, Ali Q. Al-Shetwic, P.J. Kera, M.A. Al Mamund, Aini Hussaind, Hassan Basrie, T.M.I. Mahlia [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144).
 
-<h3 align="center"> Artículo 2: Una solución de IoT para el seguimiento de la carga de flotas de camiones de basura </h3>
+<h3 align="center"> Artículo 2: Planificador de rutas para recojo de desechos sólidos utilizando el Algoritmo de Dijkstra </h3>
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule2_img1.png" width="520px"></p>
 
-**Figura 2:** Portada del segundo artículo consultado. Fue extraído de: “An IoT solution for load monitoring and tracking of garbage-truck fleets” y elaborado por Maia, J., & Yudi, J [[2]](https://ieeexplore.ieee.org/document/9274699).
+**Figura 2:** Portada del segundo artículo consultado. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE
+DIJKSTRA ALGORITHM” y elaborado por Maia, J., & Yudi, J [[2]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
 
 Este artículo trata sobre el desafío de gestionar eficientemente la recolección de residuos sólidos en áreas urbanas, proponiendo una solución basada en Internet de las Cosas (IoT). Cuyo objetivo es monitorear la ubicación y la carga de los camiones de recolección en tiempo real para optimizar dinámicamente las rutas de recolección. Se utiliza tecnología IoT para medir la carga del camión y determinar su posición, enviando estos datos a una solución de computación en la nube. La implementación se probó con éxito en el campo, utilizando una flota real en operaciones diarias. La solución mejora la eficiencia operativa, reduce costos y evita problemas como multas por sobrepeso. Tiene Azure como plataforma de nube pública, aprovechando servicios como Azure IoT Hub y Time Series Insights para el procesamiento de datos y generación de insights. Además, se detalla la arquitectura del sistema, incluyendo componentes de borde como microcontroladores ESP32 y sensores de peso y posición [[2]](https://ieeexplore.ieee.org/document/9274699).
 
