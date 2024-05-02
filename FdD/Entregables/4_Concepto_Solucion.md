@@ -30,6 +30,8 @@ Figura 3: Esquema de Funciones del proyecto. Elaboración propia.
 
 ## Matriz Morfológica
 
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/Matriz_Morfologica.png)
+
 Figura 5: Matriz Morfológica del proyecto. Elaboración propia.
 
 ## Tabla de Valoración
