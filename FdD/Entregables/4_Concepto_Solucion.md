@@ -19,6 +19,7 @@ Figura 2: Definición de Entradas y Salidas. Elaboración propia.
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/esquema_funciones.jpg" width="720px"></p>
 Figura 3: Esquema de Funciones del proyecto. Elaboración propia.
 
+##
 
 Figura 4: Definición de Funciones del proyecto. Elaboración propia.
 
