@@ -36,6 +36,8 @@ Figura 5: Matriz Morfológica del proyecto. Elaboración propia.
 
 ## Tabla de Valoración
 
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/Tabla_valoracion.png)
+
 Figura 6: Tabla de Valoración del proyecto. Elaboración propia.
 
 ## Conclusión del Concepto de Solución
