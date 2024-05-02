@@ -21,12 +21,12 @@ Figura 3: Esquema de Funciones del proyecto. Elaboración propia.
 
 ## Definición de funciones
 
-*Transformar*: alimentarse de la fuente de energía elegida para el encendido del prototipo y su debida conexión con el software para así poner en marcha sus funciones.
-*Traducir*: captar la información obtenida por los sensores basado en las condiciones del contenedor y señalarlas en distintos rangos de capacidad de llenado.
-*Procesar*: analiza y procesa la información traducida de los contenedores, e identifica las características puestos en la ruta con el fin de generar una ruta óptima de recojo.
-*Almacenar*: guarda la información procesada para obtener una respuesta rápida acerca de la información actualizada entre el software optimizador con las rutas dadas según los datos de los tachos prioritarios.
-*Transmitir*: poder enviar las señales entre el programa que ya previamente va a formar la ruta y el SP32 usado para el robot.
-*Visualizar*: es el resultado que se da a través de la conexión entre el software y el prototipo, generando un mapa que pueda estar indicado en una aplicativo que pueda ser usado por el público objetivo.
++ *Transformar*: alimentarse de la fuente de energía elegida para el encendido del prototipo y su debida conexión con el software para así poner en marcha sus funciones.
++ *Traducir*: captar la información obtenida por los sensores basado en las condiciones del contenedor y señalarlas en distintos rangos de capacidad de llenado.
++ *Procesar*: analiza y procesa la información traducida de los contenedores, e identifica las características puestos en la ruta con el fin de generar una ruta óptima de recojo.
++ *Almacenar*: guarda la información procesada para obtener una respuesta rápida acerca de la información actualizada entre el software optimizador con las rutas dadas según los datos de los tachos prioritarios.
++ *Transmitir*: poder enviar las señales entre el programa que ya previamente va a formar la ruta y el SP32 usado para el robot.
++ *Visualizar*: es el resultado que se da a través de la conexión entre el software y el prototipo, generando un mapa que pueda estar indicado en una aplicativo que pueda ser usado por el público objetivo.
 
 ## Matriz Morfológica
 
