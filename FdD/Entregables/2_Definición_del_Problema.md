@@ -95,7 +95,7 @@ La justificación radica en su impacto directo en la salud pública, el medio am
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Ishikawa.png)
 
-**Gráfico 4:** Creción propia
+**Gráfico 4:** Creación propia
 
 # Journey Map
 
