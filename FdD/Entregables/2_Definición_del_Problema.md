@@ -25,7 +25,7 @@ Los residuos sólidos en Latinoamérica y el Caribe tuvieron un alcance de 540.0
 
 ## Contexto Nacional
 El Perú en la gestión de los residuos sólidos es un desafío debido a la gran cantidad de basura generada y su mala organización.
-Cada día en el Perú se generan alrededor de 21 millones de toneladas de basura o también llamados residuos sólidos están producidos por más de 33 millones de habitantes, lamentablemente estos residuos más de un 40% terminan en los botaderos ilegales, quebradas, lagos y mares [7].En el año 2020 se produjeron un total de 7,905,118 toneladas de residuos sólidos en el país según datos evaluados por el Ministerio de Ambiente [8].
+Cada día en el Perú se generan alrededor de 21 mil de toneladas de basura o también llamados residuos sólidos, están producidos por más de 33 millones de habitantes, lamentablemente estos residuos más de un 40% terminan en los botaderos ilegales, quebradas, lagos y mares [7].En el año 2020 se produjeron un total de 7,905,118 toneladas de residuos sólidos en el país según datos evaluados por el Ministerio de Ambiente [8].
 
 -Lima con 3,457,830 que equivale a 43.7%
 
