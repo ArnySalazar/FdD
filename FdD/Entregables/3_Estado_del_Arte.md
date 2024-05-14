@@ -90,7 +90,7 @@ Definimos este software como un sistema que tiene la capacidad de abarcar enfoqu
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Tech4log-Routingmaps.png" width="600px"></p>
 
-**Figura 9:** Logo de la compañía. Fue extraído de "Software de planificación de rutas de transporte".
+**Figura 12:** Logo de la compañía. Fue extraído de "Software de planificación de rutas de transporte".
 
 **3. miResiduo: aplicación que gestiona rutas y registra la recolección de residuos**
 
@@ -106,11 +106,11 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Logo-MeuResiduo.png" width="600px"></p>
 
-**Figura 10:** Logo de la compañía. Fue extraído de "APP para gestión de rutas y registros de recolecciones de residuos"
+**Figura 13:** Logo de la compañía. Fue extraído de "APP para gestión de rutas y registros de recolecciones de residuos"
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/meuresiduo2.png" width="400px"></p>
 
-**Figura 11:** Apariencia del aplicativo. Fue extraído de "APP para gestión de rutas y registros de recolecciones de residuos"
+**Figura 14:** Apariencia del aplicativo. Fue extraído de "APP para gestión de rutas y registros de recolecciones de residuos"
 
 PATENTES
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -124,7 +124,7 @@ PATENTES
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente1.png" width="500px"></p>
 
-**Figura 12:** .-Sistema de un manejo de residuos sólidos en  las rutas de camiones con la ayuda de dispositivos descritos en la en figura.
+**Figura 15:** .-Sistema de un manejo de residuos sólidos en  las rutas de camiones con la ayuda de dispositivos descritos en la en figura.
 
 **Descripción**:
 
@@ -143,7 +143,7 @@ Más información.-[[8]](https://patentimages.storage.googleapis.com/52/34/1d/61
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente2.png" width="500px"></p>
 
-**Figura 13:** .- Funcionamiento de un sistema de gestión de tráfico en un flujo descriptivo.
+**Figura 16:** .- Funcionamiento de un sistema de gestión de tráfico en un flujo descriptivo.
 
 **Descripción**:
 
@@ -155,13 +155,13 @@ Más información.-[[9]](https://patentimages.storage.googleapis.com/05/3b/83/84
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente3.png" width="800px"></p>
 
-**Figura 14:** .- Descripción Patente 3 [[10]](https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
+**Figura 17:** .- Descripción Patente 3 [[10]](https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
 > (Primer diagrama de flujo para la recolección de basura escalable de acuerdo con algunas implementaciones- ejemplo de canalización de secuencia para la recogida de basura escalable).
 **Patente N°4**
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente4.png" width="800px"></p>
 
-**Figura 15:** .- Descripción Patente 4. [[11]](https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
+**Figura 18:** .- Descripción Patente 4. [[11]](https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
 > (Diagrama de bloques de un principio de un sistema inteligente de informatización y colaboración múltiple de vehículos de recogida de basura urbana según una realización preferida de la presente invención.)
 
 LISTA DE REQUERIMENTOS
