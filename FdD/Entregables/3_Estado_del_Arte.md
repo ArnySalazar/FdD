@@ -166,9 +166,9 @@ Nuestra solución busca mejorar la recolección de residuos mediante sensores Io
 
 [[2]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors) Chaudhari, S. S., & Bhole, V. Y. (2018). Solid Waste Collection as a Service using IoT-Solution for Smart Cities. 2018 International Conference on Smart City and Emerging Technology (ICSCET). doi:10.1109/icscet.2018.8537326
 
-[[3]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463)  Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. (2021). Planificador de rutas para recojo de desechos sólidos utilizando el algoritmo de DIJKSTRA. INGENIERÍA: Ciencia, Tecnología e Innovación, 8(2), 92-99.
+[[3]](https://ieeexplore.ieee.org/abstract/document/7847998) Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. (2016, November). Items-mapping and route optimization in a grocery store using Dijkstra's, Bellman-Ford and Floyd-Warshall Algorithms. In 2016 IEEE region 10 conference (TENCON) (pp. 243-246). IEEE.
 
-[4]
+[[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463)  Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. (2021). Planificador de rutas para recojo de desechos sólidos utilizando el algoritmo de DIJKSTRA. INGENIERÍA: Ciencia, Tecnología e Innovación, 8(2), 92-99.
 
 [4] “SUPPLY CHAIN EXECUTION - Cerca technology,” Cerca technology, 2021. https://www.cercatechnology.com/mx/portfolio/tms/ (accessed Apr. 18, 2024).
 
