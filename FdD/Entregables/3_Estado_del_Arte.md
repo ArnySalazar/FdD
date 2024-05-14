@@ -166,6 +166,8 @@ Nuestra solución busca mejorar la recolección de residuos mediante sensores Io
 
 [[3]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463)  Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. (2021). Planificador de rutas para recojo de desechos sólidos utilizando el algoritmo de DIJKSTRA. INGENIERÍA: Ciencia, Tecnología e Innovación, 8(2), 92-99.
 
+[4]
+
 [4] “SUPPLY CHAIN EXECUTION - Cerca technology,” Cerca technology, 2021. https://www.cercatechnology.com/mx/portfolio/tms/ (accessed Apr. 18, 2024).
 
 [5] “Ventajas de RoutingMaps para gestionar tus flotas y las rutas de transporte,” RoutingMaps, Oct. 16, 2017. https://www.routingmaps.com/ventajas/ (accessed Apr. 18, 2024).
