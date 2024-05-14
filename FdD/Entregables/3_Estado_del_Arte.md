@@ -12,6 +12,24 @@ Este artículo propone un modelo de optimización de rutas de recolección de re
 
 **Tabla 1:** Reducción de emisiones de CO2 para VRO y FRO. La tabla muestra que al aplicar el sistema desarrollado, los efectos ambientales disminuirán debido a la menor distancia recorrida y menos tiempo de permanencia en la carretera que en la condición actual, lo que eventualmente conduce a una reducción de las emisiones. Fue extraído de: “Waste  collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals” y elaborado por M.A. Hannana, R.A. Begumb, Ali Q. Al-Shetwic, P.J. Kera, M.A. Al Mamund, Aini Hussaind, Hassan Basrie, T.M.I. Mahlia [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144).
 
+<h3 align="center"> Artículo 3: Recolección de Residuos Sólidos como servicio mediante solución IoT para Ciudades Inteligentes </h3>
+
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img1.png" width="520px"></p>
+
+**Figura 5:** Portada del tercer artículo consultado. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
+
+Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas) para la gestión de residuos sólidos en ciudades inteligentes. Este sistema permite monitorear los contenedores de basura, programar dinámicamente y optimizar las rutas de los camiones recolectores de basura. Los contenedores están equipados con dispositivos integrados de bajo costo, a través de un prototipo de hardware con sensores ultrasonidos (HC-SR04) para medir el nivel de basura en los contenedores, los módulos GPS (EM-506 GPS receiver) para obtener la ubicación en tiempo real de los contenedores, y los módulos Wi-Fi (ESP8266) para la conexión a la red y la transmisión de datos a la nube. Además,utiliza un algoritmo de ruta más corta para calcular las rutas óptimas. La información recopilada se visualiza mediante una aplicación móvil y una plataforma web, lo que facilita el seguimiento y control por parte de los conductores de los camiones de recolección y las autoridades municipales. La integración de tecnologías como ThingSpeak para el almacenamiento en la nube y Google Maps API para la planificación de rutas contribuye a una gestión más inteligente y eficiente de los residuos, mejorando la utilización de recursos y la recolección de datos en tiempo real [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
+
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img2.png" width="520px"></p>
+
+**Figura 6:** Sistema propuesto y Patrón de transmisión. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
+
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img3.png" width="520px"></p>
+
+**Figura 7:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
+
+<h3 align="center"> Artículo 3: Mapeo de artículos y optimización de rutas en una tienda de comestibles Tienda utilizando Dijkstra's, Bellman-Ford y Floyd - Algoritmos de guerra </h3>
+
 <h3 align="center"> Artículo 2: Planificador de rutas para recojo de desechos sólidos utilizando el Algoritmo de Dijkstra </h3>
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule2_img1.png" width="520px"></p>
@@ -29,22 +47,6 @@ DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule2_img3.png" width="600px"></p>
 
 **Figura 4:** Ruta más corta del algoritmo de Dijkstra para 05 puntos de acción. Un ejemplo de la simulación para 5 puntos de acción. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[2]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
-
-<h3 align="center"> Artículo 3: Recolección de Residuos Sólidos como servicio mediante solución IoT para Ciudades Inteligentes </h3>
-
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img1.png" width="520px"></p>
-
-**Figura 5:** Portada del tercer artículo consultado. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
-
-Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas) para la gestión de residuos sólidos en ciudades inteligentes. Este sistema permite monitorear los contenedores de basura, programar dinámicamente y optimizar las rutas de los camiones recolectores de basura. Los contenedores están equipados con dispositivos integrados de bajo costo, a través de un prototipo de hardware con sensores ultrasonidos (HC-SR04) para medir el nivel de basura en los contenedores, los módulos GPS (EM-506 GPS receiver) para obtener la ubicación en tiempo real de los contenedores, y los módulos Wi-Fi (ESP8266) para la conexión a la red y la transmisión de datos a la nube. Además,utiliza un algoritmo de ruta más corta para calcular las rutas óptimas. La información recopilada se visualiza mediante una aplicación móvil y una plataforma web, lo que facilita el seguimiento y control por parte de los conductores de los camiones de recolección y las autoridades municipales. La integración de tecnologías como ThingSpeak para el almacenamiento en la nube y Google Maps API para la planificación de rutas contribuye a una gestión más inteligente y eficiente de los residuos, mejorando la utilización de recursos y la recolección de datos en tiempo real [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
-
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img2.png" width="520px"></p>
-
-**Figura 6:** Sistema propuesto y Patrón de transmisión. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
-
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img3.png" width="520px"></p>
-
-**Figura 7:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
 
 ## Contexto Comercial 
 <h3 align="center"> Dispositivos en el mercado con funciones relacionadas a la problemática </h3>
@@ -171,10 +173,10 @@ Nuestra solución busca mejorar la recolección de residuos mediante sensores Io
 
 [[8]](https://patentimages.storage.googleapis.com/05/3b/83/84b13d383f3c57/US7663505.pdf)Publicover, M. W. (2010). Traffic management device and system (Patent Núm. 7663505). En US Patent (Núm. 7663505).
 
-[[9]] (https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
+[[9]](https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
 D. et Al, “( United States Patent”, Googleapis.com, 2013. [En línea]. Disponible en: https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf. [Consultado: 14-abr-2024].
 
-[[10]] (https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
+[[10]](https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
 L. et Al, “( ) United States Patent”, Googleapis.com. [En línea]. Disponible en: https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf. [Consultado: 14-abr-2024].
 
 
