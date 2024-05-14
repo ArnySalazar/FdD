@@ -107,7 +107,8 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Logo-MeuResiduo.png" width="600px"></p>
 
 **Figura 10:** Logo de la compañía. Fue extraído de "APP para gestión de rutas y registros de recolecciones de residuos"
-![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/meuresiduo2.png)
+
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/meuresiduo2.png" width="600px"></p>
 
 **Figura 11:** Apariencia del aplicativo. Fue extraído de "APP para gestión de rutas y registros de recolecciones de residuos"
 
