@@ -46,7 +46,7 @@ Los resultados demostraron que, aunque las distancias calculadas por los tres al
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img3.png" width="520px"></p>
 
-**Figura 7:** Ruta más corta de Dijkstra para un elemento y mapa de salida. Fue extraído de: Items-mapping and Route Optimization in a Grocery Store using Dijkstra’s, Bellman-Ford and Floyd- Warshall Algorithms y elaborado por Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. [[3]](https://ieeexplore.ieee.org/abstract/document/7847998).
+**Figura 7:** Ruta más corta de Dijkstra y Mapa de Salida. Fue extraído de: Items-mapping and Route Optimization in a Grocery Store using Dijkstra’s, Bellman-Ford and Floyd- Warshall Algorithms y elaborado por Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. [[3]](https://ieeexplore.ieee.org/abstract/document/7847998).
 
 <h3 align="center"> Artículo 4: Planificador de rutas para recojo de desechos sólidos utilizando el Algoritmo de Dijkstra </h3>
 
@@ -57,12 +57,12 @@ DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, 
 
 El estudio realizado en el distrito de Chiclayo, Lambayeque, Perú, desarrolló un planificador de rutas utilizando el algoritmo de Dijkstra para optimizar la recolección de desechos sólidos. Implementó un sistema informático que utilizaba un grafo dirigido ponderado y la API de Google Maps para visualizar y planificar las rutas. Los resultados mostraron mejoras en el tiempo promedio de ejecución del algoritmo, especialmente cuando se manejan más de 20 puntos de recolección, indicando una optimización eficaz en las rutas de recolección. La tecnología permitió visualizar mapas y planificar rutas efectivas, demostrando la escalabilidad y efectividad del algoritmo en operaciones reales de recolección. [[4]](https://ieeexplore.ieee.org/document/9274699).
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule4_img4.png" width="600px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule4_img2.png" width="600px"></p>
 
 **Figura 9:** Esquema del método propuesto. Se detalla el planificador de rutas para el recojo de los desechos sólidos utilizando el algoritmo de Dijkstra, tomando en cuenta el punto de partida, los puntos de acción y la dirección de las calles.. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE
 DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule4_img4.png" width="600px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule4_img3.png" width="600px"></p>
 
 **Figura 10:** Ruta más corta del algoritmo de Dijkstra para 05 puntos de acción. Un ejemplo de la simulación para 5 puntos de acción. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
 
