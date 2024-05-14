@@ -80,7 +80,7 @@ Entre sus funciones tenemos:
 - Monitoreo logístico para verificar el cumplimiento de rutas en vivo.
 - Dashboards con estadísticas fácilmente configurables a cada necesidad [[5]](https://www.cercatechnology.com/mx/portfolio/tms/).
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cerca.png" width="300px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cerca.png" width="600px"></p>
 
 **Figura 11:** Logo de la compañía. Fue extraído de "Sistema de Gestión de Transporte (TMS) - Cerca Technology".
 
@@ -88,7 +88,7 @@ Entre sus funciones tenemos:
 
 Definimos este software como un sistema que tiene la capacidad de abarcar enfoques distintos de las empresas que lo adquieren, si es que nosotros deseamos optimizar la ruta de recogida de residuos, este nos permitirá hacer un adecuado y detallado seguimiento a cada etapa; además, cuenta con mapas actualizados gracias a Google Maps, asegurando que los conductores puedan tomar el mejor camino. Finalmente, puede evaluar la ruta y mejorar su planificación, incluso asignar automáticamente los puntos de recogida de residuos. Todas estas herramientas nos dan como resultado una reducción en distancias recorridas, tiempo de recojo y por tanto, reducción en las emisiones de CO2 de parte de los vehículos [[6]](https://www.routingmaps.com/ventajas/).
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Tech4log-Routingmaps.png" width="300px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Tech4log-Routingmaps.png" width="600px"></p>
 
 **Figura 9:** Logo de la compañía. Fue extraído de "Software de planificación de rutas de transporte".
 
@@ -104,7 +104,7 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 - Fecha y hora exactas de los registros de cada recolección;
 - Mapa para comprobar la ruta ejecutada vs la programada [[7]](https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/).
 
-![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Logo-MeuResiduo.png)
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Logo-MeuResiduo.png" width="600px"></p>
 
 **Figura 10:** Logo de la compañía. Fue extraído de "APP para gestión de rutas y registros de recolecciones de residuos"
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/meuresiduo2.png)
