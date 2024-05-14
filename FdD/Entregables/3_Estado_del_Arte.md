@@ -30,28 +30,41 @@ Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas
 
 <h3 align="center"> Artículo 3: Mapeo de artículos y optimización de rutas en una tienda de comestibles utilizando los algoritmos de Dijkstra, Bellman-Ford y Floyd-Warshall </h3>
 
-**Figura 5:** Portada del segundo artículo consultado. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img1.png" width="520px"></p>
 
-**Figura 6:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
+**Figura 5:** Portada del tercer artículo consultado. Fue extraído de: Items-mapping and Route Optimization in a Grocery Store using Dijkstra’s, Bellman-Ford and Floyd- Warshall Algorithms y elaborado por Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. [[3]](https://ieeexplore.ieee.org/abstract/document/7847998).
 
+Este artículo describe la implementación de un sistema de optimización de rutas en un supermercado utilizando los algoritmos de *Dijkstra, Bellman-Ford y Floyd-Warshall*, para guiar a los usuarios hacia el camino más corto mientras realizan sus compras. El sistema está diseñado como una aplicación cliente-servidor, donde el cliente es una aplicación en una tableta Android, y el servidor es un programa en C# desarrollado en el entorno Microsoft Visual Studio.
+
+Para la implementación, se empleó una base de datos localizada en el servidor que almacena información sobre la ubicación de los productos dentro del supermercado. Esta base se creó mediante inspecciones visuales y se estructuró de acuerdo con una representación gráfica de los pasillos del supermercado. 
+
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img2.png" width="520px"></p>
+
+**Figura 6:** Grafo ponderado para la base de datos que está integrada en la aplicación de Android. Fue extraído de: Items-mapping and Route Optimization in a Grocery Store using Dijkstra’s, Bellman-Ford and Floyd- Warshall Algorithms y elaborado por Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. [[3]](https://ieeexplore.ieee.org/abstract/document/7847998).
+
+Los resultados demostraron que, aunque las distancias calculadas por los tres algoritmos fueron similares, los tiempos de computación variaron según el número de ítems, pero el algoritmo de Dijkstra se destacó por su menor tiempo computacional en escenarios con menos productos, lo que confirma su utilidad en aplicaciones que demandan eficiencia y rapidez.
+
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img3.png" width="520px"></p>
+
+**Figura 7:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
 
 <h3 align="center"> Artículo 4: Planificador de rutas para recojo de desechos sólidos utilizando el Algoritmo de Dijkstra </h3>
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule4_img1.png" width="520px"></p>
 
-**Figura 2:** Portada del cuarto artículo consultado. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE
+**Figura 8:** Portada del cuarto artículo consultado. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE
 DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
 
 El estudio realizado en el distrito de Chiclayo, Lambayeque, Perú, desarrolló un planificador de rutas utilizando el algoritmo de Dijkstra para optimizar la recolección de desechos sólidos. Implementó un sistema informático que utilizaba un grafo dirigido ponderado y la API de Google Maps para visualizar y planificar las rutas. Los resultados mostraron mejoras en el tiempo promedio de ejecución del algoritmo, especialmente cuando se manejan más de 20 puntos de recolección, indicando una optimización eficaz en las rutas de recolección. La tecnología permitió visualizar mapas y planificar rutas efectivas, demostrando la escalabilidad y efectividad del algoritmo en operaciones reales de recolección. [[4]](https://ieeexplore.ieee.org/document/9274699).
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule2_img4.png" width="600px"></p>
 
-**Figura 3:** Esquema del método propuesto. Se detalla el planificador de rutas para el recojo de los desechos sólidos utilizando el algoritmo de Dijkstra, tomando en cuenta el punto de partida, los puntos de acción y la dirección de las calles.. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE
+**Figura 9:** Esquema del método propuesto. Se detalla el planificador de rutas para el recojo de los desechos sólidos utilizando el algoritmo de Dijkstra, tomando en cuenta el punto de partida, los puntos de acción y la dirección de las calles.. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE
 DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule2_img4.png" width="600px"></p>
 
-**Figura 4:** Ruta más corta del algoritmo de Dijkstra para 05 puntos de acción. Un ejemplo de la simulación para 5 puntos de acción. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
+**Figura 10:** Ruta más corta del algoritmo de Dijkstra para 05 puntos de acción. Un ejemplo de la simulación para 5 puntos de acción. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
 
 ## Contexto Comercial 
 <h3 align="center"> Dispositivos en el mercado con funciones relacionadas a la problemática </h3>
@@ -69,7 +82,7 @@ Entre sus funciones tenemos:
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cerca.png)  
 
-**Figura 8:** Logo de la compañía. Fue extraído de "Sistema de Gestión de Transporte (TMS) - Cerca Technology".
+**Figura 11:** Logo de la compañía. Fue extraído de "Sistema de Gestión de Transporte (TMS) - Cerca Technology".
 
 **2. RoutingMaps: Software optimizador de rutas de recolección de residuos**
 
