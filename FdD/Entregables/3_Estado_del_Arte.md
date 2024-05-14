@@ -28,7 +28,7 @@ Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas
 
 **Figura 4:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[2]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
 
-<h3 align="center"> Artículo 3: Mapeo de artículos y optimización de rutas en una tienda de comestibles Tienda utilizando Dijkstra's, Bellman-Ford y Floyd - Algoritmos de guerra </h3>
+<h3 align="center"> Artículo 3: Mapeo de artículos y optimización de rutas en una tienda de comestibles utilizando los algoritmos de Dijkstra, Bellman-Ford y Floyd-Warshall </h3>
 
 **Figura 5:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
 
