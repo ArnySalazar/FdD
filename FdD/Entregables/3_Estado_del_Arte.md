@@ -38,13 +38,13 @@ Este artículo describe la implementación de un sistema de optimización de rut
 
 Para la implementación, se empleó una base de datos localizada en el servidor que almacena información sobre la ubicación de los productos dentro del supermercado. Esta base se creó mediante inspecciones visuales y se estructuró de acuerdo con una representación gráfica de los pasillos del supermercado. 
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img2.png" width="520px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img2.png" width="320px"></p>
 
 **Figura 6:** Grafo ponderado para la base de datos que está integrada en la aplicación de Android. Fue extraído de: Items-mapping and Route Optimization in a Grocery Store using Dijkstra’s, Bellman-Ford and Floyd- Warshall Algorithms y elaborado por Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. [[3]](https://ieeexplore.ieee.org/abstract/document/7847998).
 
 Los resultados demostraron que, aunque las distancias calculadas por los tres algoritmos fueron similares, los tiempos de computación variaron según el número de ítems, pero el algoritmo de Dijkstra se destacó por su menor tiempo computacional en escenarios con menos productos, lo que confirma su utilidad en aplicaciones que demandan eficiencia y rapidez.
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img3.png" width="520px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img3.png" width="720px"></p>
 
 **Figura 7:** Ruta más corta de Dijkstra y Mapa de Salida. Fue extraído de: Items-mapping and Route Optimization in a Grocery Store using Dijkstra’s, Bellman-Ford and Floyd- Warshall Algorithms y elaborado por Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. [[3]](https://ieeexplore.ieee.org/abstract/document/7847998).
 
