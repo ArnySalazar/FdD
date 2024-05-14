@@ -62,9 +62,9 @@ El estudio realizado en el distrito de Chiclayo, Lambayeque, Perú, desarrolló 
 **Figura 9:** Esquema del método propuesto. Se detalla el planificador de rutas para el recojo de los desechos sólidos utilizando el algoritmo de Dijkstra, tomando en cuenta el punto de partida, los puntos de acción y la dirección de las calles.. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE
 DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule4_img3.png" width="600px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule4_img3.png" width="700px"></p>
 
-**Figura 10:** Ruta más corta del algoritmo de Dijkstra para 05 puntos de acción. Un ejemplo de la simulación para 5 puntos de acción. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
+**Figura 10:** Red de calles y/o avenidas del distrito de Chiclayo y Ruta más corta del algoritmo de Dijkstra para 05 puntos de acción. Un ejemplo de la simulación para 5 puntos de acción. Fue extraído de: “PLANNER OF ROUTES FOR COLLECTING SOLID WASTE USING THE DIJKSTRA ALGORITHM” y elaborado por Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463).
 
 ## Contexto Comercial 
 <h3 align="center"> Dispositivos en el mercado con funciones relacionadas a la problemática </h3>
