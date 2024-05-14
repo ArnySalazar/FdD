@@ -78,7 +78,7 @@ Entre sus funciones tenemos:
 - Planificación óptima de la distribución de productos y territorios con el menor costo logístico.
 - Yard management en conjunto con un control de ingresos y afinación de viajes por prioridad.
 - Monitoreo logístico para verificar el cumplimiento de rutas en vivo.
-- Dashboards con estadísticas fácilmente configurables a cada necesidad [[4]](https://www.cercatechnology.com/mx/portfolio/tms/).
+- Dashboards con estadísticas fácilmente configurables a cada necesidad [[5]](https://www.cercatechnology.com/mx/portfolio/tms/).
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cerca.png)  
 
@@ -86,7 +86,7 @@ Entre sus funciones tenemos:
 
 **2. RoutingMaps: Software optimizador de rutas de recolección de residuos**
 
-Definimos este software como un sistema que tiene la capacidad de abarcar enfoques distintos de las empresas que lo adquieren, si es que nosotros deseamos optimizar la ruta de recogida de residuos, este nos permitirá hacer un adecuado y detallado seguimiento a cada etapa; además, cuenta con mapas actualizados gracias a Google Maps, asegurando que los conductores puedan tomar el mejor camino. Finalmente, puede evaluar la ruta y mejorar su planificación, incluso asignar automáticamente los puntos de recogida de residuos. Todas estas herramientas nos dan como resultado una reducción en distancias recorridas, tiempo de recojo y por tanto, reducción en las emisiones de CO2 de parte de los vehículos [[5]](https://www.routingmaps.com/ventajas/).
+Definimos este software como un sistema que tiene la capacidad de abarcar enfoques distintos de las empresas que lo adquieren, si es que nosotros deseamos optimizar la ruta de recogida de residuos, este nos permitirá hacer un adecuado y detallado seguimiento a cada etapa; además, cuenta con mapas actualizados gracias a Google Maps, asegurando que los conductores puedan tomar el mejor camino. Finalmente, puede evaluar la ruta y mejorar su planificación, incluso asignar automáticamente los puntos de recogida de residuos. Todas estas herramientas nos dan como resultado una reducción en distancias recorridas, tiempo de recojo y por tanto, reducción en las emisiones de CO2 de parte de los vehículos [[6]](https://www.routingmaps.com/ventajas/).
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Tech4log-Routingmaps.png)
 
@@ -102,7 +102,7 @@ Algunos de los beneficios de implementar esta app en empresas recolectoras son:
 - Emisión automática del Informe de visita realizada enviado al correo.
 - Posibilidad de capturar evidencia fotográfica de cada residuo recolectado.
 - Fecha y hora exactas de los registros de cada recolección;
-- Mapa para comprobar la ruta ejecutada vs la programada [[6]](https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/).
+- Mapa para comprobar la ruta ejecutada vs la programada [[7]](https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/).
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/Logo-MeuResiduo.png)
 
@@ -129,7 +129,7 @@ PATENTES
 
 La gestión eficiente de residuos en flotas de camiones de basura es fundamental para los servicios de recolección. Un dispositivo de medición de residuos, equipado con cámaras de luz visible, sensores de volumen y un controlador, se despliega frente a la tolva del camión. Su función es medir el volumen de residuos en la tolva utilizando sensores. El método calcula el volumen de residuos descargados del contenedor restando la medición previa a la carga de la medición posterior. Este sistema optimiza y supervisa el funcionamiento de la flota de camiones de basura, basándose en las mediciones proporcionadas por los dispositivos de medición de residuos.
 
-Más información.-[[7]](https://patentimages.storage.googleapis.com/52/34/1d/610f1b2659b17b/US20190019167A1.pdf)
+Más información.-[[8]](https://patentimages.storage.googleapis.com/52/34/1d/610f1b2659b17b/US20190019167A1.pdf)
 
 
 **Patente N°2**
@@ -148,19 +148,19 @@ Más información.-[[7]](https://patentimages.storage.googleapis.com/52/34/1d/61
 
 Un dispositivo inteligente de control de tráfico comunica datos a los vehículos cercanos sobre su estado actual y previsto. Esto permite que los vehículos ajusten su velocidad para evitar llegar al dispositivo de control de tráfico hasta que se permita el paso, evitando paradas innecesarias y aceleraciones repetidas. Además, en otras implementaciones, el dispositivo o los sistemas de control de tráfico reciben información de los vehículos y la transmiten a otros vehículos.
 
-Más información.-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84b13d383f3c57/US7663505.pdf)
+Más información.-[[9]](https://patentimages.storage.googleapis.com/05/3b/83/84b13d383f3c57/US7663505.pdf)
 
 **Patente N°3**
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente3.png" width="800px"></p>
 
-**Figura 14:** .- Descripción Patente 3 [[9]](https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
+**Figura 14:** .- Descripción Patente 3 [[10]](https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
 > (Primer diagrama de flujo para la recolección de basura escalable de acuerdo con algunas implementaciones- ejemplo de canalización de secuencia para la recogida de basura escalable).
 **Patente N°4**
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/patente4.png" width="800px"></p>
 
-**Figura 15:** .- Descripción Patente 4. [[10]](https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
+**Figura 15:** .- Descripción Patente 4. [[11]](https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
 > (Diagrama de bloques de un principio de un sistema inteligente de informatización y colaboración múltiple de vehículos de recogida de basura urbana según una realización preferida de la presente invención.)
 
 LISTA DE REQUERIMENTOS
@@ -183,20 +183,20 @@ Nuestra solución busca mejorar la recolección de residuos mediante sensores Io
 
 [[4]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463)  Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. (2021). Planificador de rutas para recojo de desechos sólidos utilizando el algoritmo de DIJKSTRA. INGENIERÍA: Ciencia, Tecnología e Innovación, 8(2), 92-99.
 
-[4] “SUPPLY CHAIN EXECUTION - Cerca technology,” Cerca technology, 2021. https://www.cercatechnology.com/mx/portfolio/tms/ (accessed Apr. 18, 2024).
+[[5]](https://www.cercatechnology.com/mx/portfolio/tms/) “SUPPLY CHAIN EXECUTION - Cerca technology,” Cerca technology, 2021. https://www.cercatechnology.com/mx/portfolio/tms/ (accessed Apr. 18, 2024).
 
-[5] “Ventajas de RoutingMaps para gestionar tus flotas y las rutas de transporte,” RoutingMaps, Oct. 16, 2017. https://www.routingmaps.com/ventajas/ (accessed Apr. 18, 2024).
+[[6]](https://www.routingmaps.com/ventajas/) “Ventajas de RoutingMaps para gestionar tus flotas y las rutas de transporte,” RoutingMaps, Oct. 16, 2017. https://www.routingmaps.com/ventajas/ (accessed Apr. 18, 2024).
 
-[6] “APP para gestión de rutas y registros de recolecciones de residuos - meuResíduo”. meuResíduo -. Accedido el 18 de abril de 2024. [En línea]. Disponible: https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
+[[7]](https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/) “APP para gestión de rutas y registros de recolecciones de residuos - meuResíduo”. meuResíduo -. Accedido el 18 de abril de 2024. [En línea]. Disponible: https://www.meuresiduo.com/blog-es/app-para-gestion-de-rutas-y-registros-de-recolecciones-de-residuos/
 
-[[7]](https://patentimages.storage.googleapis.com/52/34/1d/610f1b2659b17b/US20190019167A1.pdf)Candel et, A., & Pub Date, J. (s/f). ( ) Patent Application Publication ( ) Pub . No . : US / A1. Googleapis.com. Recuperado el 18 de abril de 2024, de 
+[[8]](https://patentimages.storage.googleapis.com/52/34/1d/610f1b2659b17b/US20190019167A1.pdf)Candel et, A., & Pub Date, J. (s/f). ( ) Patent Application Publication ( ) Pub . No . : US / A1. Googleapis.com. Recuperado el 18 de abril de 2024, de 
 
-[[8]](https://patentimages.storage.googleapis.com/05/3b/83/84b13d383f3c57/US7663505.pdf)Publicover, M. W. (2010). Traffic management device and system (Patent Núm. 7663505). En US Patent (Núm. 7663505).
+[[9]](https://patentimages.storage.googleapis.com/05/3b/83/84b13d383f3c57/US7663505.pdf)Publicover, M. W. (2010). Traffic management device and system (Patent Núm. 7663505). En US Patent (Núm. 7663505).
 
-[[9]](https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
+[[10]](https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf.)
 D. et Al, “( United States Patent”, Googleapis.com, 2013. [En línea]. Disponible en: https://patentimages.storage.googleapis.com/74/3e/04/303e7ae9f4da5d/US10846216.pdf. [Consultado: 14-abr-2024].
 
-[[10]](https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
+[[11]](https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf.)
 L. et Al, “( ) United States Patent”, Googleapis.com. [En línea]. Disponible en: https://patentimages.storage.googleapis.com/4d/f8/77/44ecadc10ccd6c/US10214350.pdf. [Consultado: 14-abr-2024].
 
 
