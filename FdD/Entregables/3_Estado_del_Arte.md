@@ -34,15 +34,15 @@ Este artículo propone un sistema eficiente basado en IoT (Internet de las Cosas
 
 **Figura 5:** Portada del tercer artículo consultado. Fue extraído de: Items-mapping and Route Optimization in a Grocery Store using Dijkstra’s, Bellman-Ford and Floyd- Warshall Algorithms y elaborado por Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. [[3]](https://ieeexplore.ieee.org/abstract/document/7847998).
 
-Este artículo describe la implementación de un sistema de optimización de rutas en un supermercado utilizando los algoritmos de *Dijkstra, Bellman-Ford y Floyd-Warshall*, para guiar a los usuarios hacia el camino más corto mientras realizan sus compras. El sistema está diseñado como una aplicación cliente-servidor, donde el cliente es una aplicación en una tableta Android, y el servidor es un programa en C# desarrollado en el entorno Microsoft Visual Studio.
+Este artículo describe la implementación de un sistema de optimización de rutas en un supermercado utilizando los algoritmos de *Dijkstra, Bellman-Ford y Floyd-Warshall*, para guiar a los usuarios hacia el camino más corto mientras realizan sus compras. El sistema está diseñado como una aplicación cliente-servidor, donde el cliente es una aplicación en una *tableta Android*, y el servidor es un *programa en C#* desarrollado en el *entorno Microsoft Visual Studio*.
 
-Para la implementación, se empleó una base de datos localizada en el servidor que almacena información sobre la ubicación de los productos dentro del supermercado. Esta base se creó mediante inspecciones visuales y se estructuró de acuerdo con una representación gráfica de los pasillos del supermercado. 
+Para la implementación, se empleó una *base de datos localizada* en el servidor que almacena información sobre la ubicación de los productos dentro del supermercado. Esta base se creó mediante inspecciones visuales y se estructuró de acuerdo con una representación gráfica de los pasillos del supermercado. 
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img2.png" width="320px"></p>
 
 **Figura 6:** Grafo ponderado para la base de datos que está integrada en la aplicación de Android. Fue extraído de: Items-mapping and Route Optimization in a Grocery Store using Dijkstra’s, Bellman-Ford and Floyd- Warshall Algorithms y elaborado por Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. [[3]](https://ieeexplore.ieee.org/abstract/document/7847998).
 
-Los resultados demostraron que, aunque las distancias calculadas por los tres algoritmos fueron similares, los tiempos de computación variaron según el número de ítems, pero el algoritmo de Dijkstra se destacó por su menor tiempo computacional en escenarios con menos productos, lo que confirma su utilidad en aplicaciones que demandan eficiencia y rapidez.
+Los resultados demostraron que, aunque las distancias calculadas por los tres algoritmos fueron similares, los tiempos de computación variaron según el número de ítems, pero el *algoritmo de Dijkstra* se destacó por su *menor tiempo computacional* en escenarios con menos productos, destacandónse como el algoritmo preferido para situaciones que requieren respuestas rápidas y eficientes, donde la cantidad de productos es limitada.
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img3.png" width="720px"></p>
 
