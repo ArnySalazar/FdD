@@ -46,7 +46,7 @@ Los resultados demostraron que, aunque las distancias calculadas por los tres al
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_3/cc_articule3_img3.png" width="520px"></p>
 
-**Figura 7:** Diagrama de circuito del sistema integrado y Estadísticas de la plataforma ThingSpeak IoT. Fue extraído de: “Solid Waste Collection as a Service using IoT-Solution for Smart Cities” y elaborado por Chaudhari, S. S., & Bhole, V. Y. [[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors).
+**Figura 7:** Ruta más corta de Dijkstra para un elemento y mapa de salida. Fue extraído de: Items-mapping and Route Optimization in a Grocery Store using Dijkstra’s, Bellman-Ford and Floyd- Warshall Algorithms y elaborado por Cruz, J. C. D., Magwili, G. V., Mundo, J. P. E., Gregorio, G. P. B., Lamoca, M. L. L., & Villaseñor, J. A. [[3]](https://ieeexplore.ieee.org/abstract/document/7847998).
 
 <h3 align="center"> Artículo 4: Planificador de rutas para recojo de desechos sólidos utilizando el Algoritmo de Dijkstra </h3>
 
