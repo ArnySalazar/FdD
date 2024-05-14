@@ -162,9 +162,9 @@ Nuestra solución busca mejorar la recolección de residuos mediante sensores Io
 
 [[1]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306144) Hannan, M. A., Begum, R. A., Al-Shetwi, A. Q., Ker, P. J., Al Mamun, M. A., Hussain, A., … Mahlia, T. M. I. (2020). Waste collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals. Sustainable Cities and Society, 102393. doi:10.1016/j.scs.2020.102393
 
-[[2]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463)  Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. (2021). Planificador de rutas para recojo de desechos sólidos utilizando el algoritmo de DIJKSTRA. INGENIERÍA: Ciencia, Tecnología e Innovación, 8(2), 92-99.
+[[2]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors) Chaudhari, S. S., & Bhole, V. Y. (2018). Solid Waste Collection as a Service using IoT-Solution for Smart Cities. 2018 International Conference on Smart City and Emerging Technology (ICSCET). doi:10.1109/icscet.2018.8537326
 
-[[3]](https://ieeexplore.ieee.org/abstract/document/8537326/authors#authors) Chaudhari, S. S., & Bhole, V. Y. (2018). Solid Waste Collection as a Service using IoT-Solution for Smart Cities. 2018 International Conference on Smart City and Emerging Technology (ICSCET). doi:10.1109/icscet.2018.8537326
+[[3]](https://revistas.uss.edu.pe/index.php/ING/article/view/1918/2463)  Bernal, J. M. A., Ruíz, J. A. B., Díaz, J. C. A., & Monteza, V. A. T. (2021). Planificador de rutas para recojo de desechos sólidos utilizando el algoritmo de DIJKSTRA. INGENIERÍA: Ciencia, Tecnología e Innovación, 8(2), 92-99.
 
 [4] “SUPPLY CHAIN EXECUTION - Cerca technology,” Cerca technology, 2021. https://www.cercatechnology.com/mx/portfolio/tms/ (accessed Apr. 18, 2024).
 
