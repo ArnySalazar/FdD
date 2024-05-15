@@ -45,7 +45,7 @@ Lima con 3 457 830 que equivale a 43.7%
 
 4.-Escasez de servicio de recolección regular en áreas urbanas.
 
-## Consecuencias de la mala dispersión de los residuos sólidos
+### Consecuencias de la mala dispersión de los residuos sólidos
 
 1.- La falta de recursos sanitarios adecuados como basureros contenedores, contribuye a la contaminación ambiental.
 
