@@ -60,26 +60,23 @@ La gestión de residuos sólidos es un tema importante. La población total de L
 ## Contexto económico
 
 ### Contexto económico a nivel internacional
-El mal manejo de los residuos sólidos por parte de las empresas y ciudadanos es una problemática presentada en diversas partes del mundo, la cual está estrechamente ligada a actividades humanas y maximizada por el crecimiento poblacional entre otros factores, por lo que es necesario la adopción de medidas frente a esto por parte de las naciones.
-Tal es el caso; se realizaron estudios de generación y cuantificación de subproductos de los residuos sólidos urbanos,  en la cabecera municipal de Berriozábal, Chiapas, México; haciendo una proyección a futuro de la tasa de generación de RSU y del crecimiento poblacional que permite ver que en un periodo de 10 años, en dicho lugar, se generará 0.66 kg/hab/día.
+A nivel internacional tenemos como ejemplo a Suiza, que es uno de los países con mejor manejo de residuos sólidos, este lugar dedica el 1,8% de su PIB a la protección del medio ambiente. La mayor parte de los gastos están destinados a la gestión de los desechos y de las aguas residuales. Además ha propuesto un modelo de economía circular en conjunto con medidas adoptadas por la Confederación basadas en el criterio de precaución y en el principio «quien contamina paga»[#], un ejemplo de ello es que  los habitantes tienen la obligación de separar los residuos reciclables en cada una de sus categorías, y pagan por cada kg de residuos no reciclables que desechan. De no ser así, reciben multas que pueden ir hasta los 10 mil euros[#].
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/E_U_N.png)
-**Gráfico 3:** Población y generación per cápita de residuos sólidos urbanos (RSU) en Berriozábal 2016 - 2026 [6].
+**Gráfico 3:** Infografía: Nuestro Futuro Empieza Hoy - Suiza [6].
 
 ###  Contexto económico a nivel regional (Sudamérica)
-En el año 2020, la Comisión Económica para América Latina y el Caribe (CEPAL) señaló que, a 10 años del vencimiento del plazo de los ODS, la situación es crítica en la mayoría de los indicadores en América Latina y el Caribe (ALC). Considerando un total de 72 indicadores, solo en cuatro de estos se alcanzó el umbral establecido, en 15 se sigue la tendencia correcta, en ocho se requiere la intervención estatal con políticas públicas, y en 13, se requiere también la intervención privada.
+Fue aprobada para Argentina una línea de crédito condicional por hasta US $300 millones para mejorar la gestión integral de residuos sólidos urbanos (RSU) de parte del Banco Interamericano de Desarrollo (BID). La cual está destinada a financiar obras y equipamientos que contribuyan a este fin, así  mejorando su recuperación y valorización. La primera operación beneficiará de forma directa aproximadamente a 910 000 habitantes. De tal manera que puedan aumentar las tasas de reciclaje y recuperación de RSU, así como una mejora en la infraestructura (plantas) y equipamiento básico para apoyar a los recicladores. [#]
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/E_U_R.png)
-**Figura 3:** Avance de los indicadores de los ODS al 2030. CEPAL, 2020.
-
-Treinta y dos indicadores presentan los mayores problemas en cuanto al avance, algunos en estado estancado y otros en retroceso. Cabe mencionar que el indicador del ODS 12, uno de los seleccionados por nuestro equipo, se encuentra paralizado.
+**Figura 3:** Representación ilustrativa de los préstamos del BID para gestionar residuos.
 
 ### Contexto económico a nivel nacional
-Finalmente, consideramos la perspectiva de nuestro país: En el Perú, entre los años 2010 y 2011, el volumen de residuos sólidos se incrementó en 20%, pasando de 6 millones de toneladas a 7,2 millones de toneladas. Así mismo, la generación de residuos sólidos per cápita se incrementó en 17%: pasando a 0,61 kg/hab/día en 2011. La mayor generación per cápita diaria se registró en Huancavelica (0,76 kg/hab/día). Este incremento refleja el crecimiento urbano acelerado y poco planificado, así como el cambio en los patrones de consumo.
+En el Perú se encuentran datos acerca de la inversión extranjera respecto en el  tema de la gestión integral de residuos sólidos, todo esto a través de la implementación de proyectos financiados parcialmente por fondos de la Agencia de Cooperación Internacional del Japón (JICA) 23 proyectos y el Banco Interamericano de Desarrollo (BID) 8 proyectos. El programa recibe el nombre de  PROG. 016-2010-SNIP y se viene implementado en 31 ciudades de 16 departamentos del país, en estrecha coordinación con sus gobiernos locales, a noviembre del 2020 ha ejecutado aproximadamente 352.2 millones de soles (73.08%) como parte de su implementación de un total programado de 481.98 millones.
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/E_U.png)
 
-**Gráfico 4:** Informe Nacional de Residuos Sólidos emitidos en diversas ciudades del Perú [7].
+**Gráfico 4:** Cifras en cuanto a la ejecución del proyecto PROG. 016-2010-SNIP [7].
 
 ## Definición de la problemática
 ### Identificación del problema
