@@ -5,28 +5,29 @@ Nuestro sistema automatizado de gestión de residuos se basa en un mapa de nodos
 
 ## Caja Negra
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/caja_negra.png" width="820px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/caja_negra_1.png" width="820px"></p>
 
 Figura 1: Diagrama de Caja Negra del proyecto. Elaboración propia.
 
 ## Caja Negra definiciones
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/definicion_entrada_salida.png" width="820px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/definicion_entrada_salida_1.png" width="820px"></p>
 
 Figura 2: Definición de Entradas y Salidas. Elaboración propia.
 
 ## Esquema de Funciones
 
-<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/esquema_funciones.png" width="820px"></p>
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/esquema_funciones_1.png" width="820px"></p>
 Figura 3: Esquema de Funciones del proyecto. Elaboración propia.
 
 ## Definición de funciones
 
-+ *Transformar*: alimentarse de la fuente de energía elegida para el encendido del prototipo y su debida conexión con el software para así poner en marcha sus funciones.
-+ *Traducir*: captar la información obtenida por los sensores basado en las condiciones del contenedor y señalarlas en distintos rangos de capacidad de llenado.
-+ *Procesar*: analiza y procesa la información traducida de los contenedores, e identifica las características puestos en la ruta con el fin de generar una ruta óptima de recojo.
-+ *Almacenar*: guarda la información procesada para obtener una respuesta rápida acerca de la información actualizada entre el software optimizador con las rutas dadas según los datos de los tachos prioritarios.
-+ *Transmitir*: poder enviar las señales entre el programa que ya previamente va a formar la ruta y el SP32 usado para el robot.
-+ *Visualizar*: es el resultado que se da a través de la conexión entre el software y el prototipo, generando un mapa que pueda estar indicado en una aplicativo que pueda ser usado por el público objetivo.
++ *Recibe:* recibe toda la información de los tachos con sensores ya establecidos en diversos puntos del distrito.
++ *Almacena:* Los datos son almacenados en una base de datos.
++ *Ordena:* nuestro software ordenaría con una matriz de adyacencia los datos y los clasifica según importancia.
++ *Procesa:* Nuestro software procesaría y daría la ruta más óptima según nuestro algoritmo.
++ *Transmite:* Daría la orden al camión compactador (en este caso representado por un carro seguidor de línea) sobre la ruta que debe seguir.
++ *Visualiza:* el usuario podrá visualizar la ruta escogida mediante la app ya implementada.
++ *Alerta:* Una vez terminada la acción daría una señal de alerta para indicar el fin de su recorrido
 
 ## Matriz Morfológica
 
