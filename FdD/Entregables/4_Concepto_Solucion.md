@@ -10,13 +10,9 @@ Nuestro sistema automatizado de gestión de residuos se basa en un mapa de nodos
 Figura 1: Diagrama de Caja Negra del proyecto. Elaboración propia.
 
 ## Caja Negra definiciones
-![image](https://github.com/Erickdeza/amigos-de-verdad/assets/165864302/46a1fff7-27fa-46bf-a2a2-46ce83a32cb0)
+<p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/definicion_entrada_salida.png" width="820px"></p>
 
 Figura 2: Definición de Entradas y Salidas. Elaboración propia.
-
-![image](https://github.com/Erickdeza/amigos-de-verdad/assets/165864302/bc64d4a4-6b54-4d25-b99b-8e4477880415)
-
-Figura 3: Definición de Entradas y Salidas del prototipo. Elaboración propia.
 
 ## Esquema de Funciones
 
