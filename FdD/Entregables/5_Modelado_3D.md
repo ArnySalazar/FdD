@@ -17,3 +17,6 @@
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_5/8.png" width="820px"></p>
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_5/9.png" width="820px"></p>
+
+Enlaces
+Sketchfab: (https://skfb.ly/oUXYx)
