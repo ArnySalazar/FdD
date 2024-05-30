@@ -8,7 +8,7 @@ Figura 2: La imagen muestra las conexiones entre un módulo controlador de motor
 
 ## Simulación del Algoritmo 
 
-[Simulación del Algoritmo](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Simulacion/Fundamentos de Diseño Grupo 4.pdf)
+[Simulación del Algoritmo](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Simulacion/grupo4.pdf)
 
 # Prototipado del Circuito Electrónico
 
