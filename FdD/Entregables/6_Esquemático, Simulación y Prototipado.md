@@ -5,7 +5,7 @@
 ## Simulación del Circuito Electrónico
 
 
-# Implementación Algoritmo en Python
+### Implementación Algoritmo en Python
 
 ## Prototipado del Circuito Electrónico
 
