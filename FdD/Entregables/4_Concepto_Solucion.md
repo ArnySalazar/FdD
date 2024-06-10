@@ -22,7 +22,7 @@ Nuestro sistema automatizado de gestión de residuos se basa en un mapa de nodos
 
 ## Definición de funciones
 
-+ *Recibe:* Recibe toda la información de los tachos con sensores ya establecidos en diversos puntos del distrito. En el proyecto los datos recibidos son de los potenciómetros de cada tacho.
++ *Recibe:* Recolecta toda la información de los tachos con sensores ya establecidos en diversos puntos del distrito. En el proyecto los datos recibidos son de los potenciómetros de cada tacho.
 + *Almacenar:* Los datos son almacenados en una base de datos.
 + *Ordena:* Clasifica los datos según el nivel de llenado y la prioridad de recolección, preparando la información para el cálculo de ruta.
 + *Procesa:* Nuestro software procesaría y daría la ruta más óptima de recolección según nuestro algoritmo, utilizando la fórmula y tomando en cuenta la capacidad del camión.
