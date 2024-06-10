@@ -25,8 +25,8 @@ Figura 3: Esquema de Funciones del proyecto. Elaboración propia.
 + *Almacenar:* Los datos son almacenados en una base de datos.
 + *Ordena:* Muestro software ordenaría con una matriz de adyacencia los datos y los clasifica según importancia.
 + *Procesa:* Nuestro software procesaría y daría la ruta más óptima según nuestro algoritmo.
-+ *Transmite:* Daría la orden al camión compactador (en este caso representado por un carro seguidor de línea) sobre la ruta que debe seguir.
-+ *Visualiza:* El usuario podrá visualizar la ruta escogida mediante la app ya implementada.
++ *Transmiire:* Daría la orden al camión compactador (en este caso representado por un carro seguidor de línea) sobre la ruta que debe seguir.
++ *Visualizar:* El usuario podrá visualizar la ruta escogida mediante la app ya implementada.
 + *Notifica o Alerta:* Una vez terminada la acción daría una señal de alerta para indicar el fin de su recorrido
 
 ## Matriz Morfológica
