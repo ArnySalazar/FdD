@@ -22,7 +22,7 @@ Figura 3: Esquema de Funciones del proyecto. Elaboración propia.
 ## Definición de funciones
 
 + *Recibe:* Recibe toda la información de los tachos con sensores ya establecidos en diversos puntos del distrito.
-+ *Almacena:* Los datos son almacenados en una base de datos.
++ *Almacenar:* Los datos son almacenados en una base de datos.
 + *Ordena:* Muestro software ordenaría con una matriz de adyacencia los datos y los clasifica según importancia.
 + *Procesa:* Nuestro software procesaría y daría la ruta más óptima según nuestro algoritmo.
 + *Transmite:* Daría la orden al camión compactador (en este caso representado por un carro seguidor de línea) sobre la ruta que debe seguir.
