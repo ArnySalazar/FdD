@@ -7,17 +7,18 @@ Nuestro sistema automatizado de gestión de residuos se basa en un mapa de nodos
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/caja_negra_1.png" width="820px"></p>
 
-Figura 1: Diagrama de Caja Negra del proyecto. Elaboración propia.
+**Figura 1:** Diagrama de Caja Negra del proyecto. Elaboración propia.
 
 ## Caja Negra definiciones
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/definicion_entrada_salida_1.png" width="820px"></p>
 
-Figura 2: Definición de Entradas y Salidas. Elaboración propia.
+**Figura 2:** Definición de Entradas y Salidas. Elaboración propia.
 
 ## Esquema de Funciones
 
 <p align="center"><img src ="https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/esquema_funciones_1.png" width="820px"></p>
-Figura 3: Esquema de Funciones del proyecto. Elaboración propia.
+
+**Figura 3:** Esquema de Funciones del proyecto. Elaboración propia.
 
 ## Definición de funciones
 
@@ -33,13 +34,13 @@ Figura 3: Esquema de Funciones del proyecto. Elaboración propia.
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/Matriz_Morfologica.png)
 
-Figura 5: Matriz Morfológica del proyecto. Elaboración propia.
+**Figura 4:** Matriz Morfológica del proyecto. Elaboración propia.
 
 ## Tabla de Valoración
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/t_valoracion.png)
 
-Figura 6: Tabla de Valoración del proyecto. Elaboración propia.
+**Figura 5:** Tabla de Valoración del proyecto. Elaboración propia.
 
 ## Conclusión del Concepto de Solución
 
