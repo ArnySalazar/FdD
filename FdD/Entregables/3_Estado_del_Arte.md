@@ -172,7 +172,7 @@ LISTA DE REQUERIMENTOS
 
 ## Definición de Solución a Implementar
 
-Nuestra solución busca mejorar la recolección de residuos mediante sensores IoT que identifican contenedores prioritarios. Utilizando el algoritmo de Dijkstra para calcular rutas óptimas, priorizamos la eficiencia en la asignación de recursos y minimizamos los trayectos vacíos. Los beneficios son diversos: reducción significativa de emisiones (gases de efecto invernadero), ahorro de tiempo y costos operativos, y una mejora general en la eficiencia de nuestras operaciones. Esta estrategia no solo promueve prácticas ambientales responsables, sino que también contribuye al desarrollo sostenible de nuestra comunidad, marcando un paso importante hacia la gestión de residuos más eficiente y respetuosa con el medio ambiente.
+Nuestra solución busca mejorar la recolección de residuos mediante sensores IoT que miden el nivel de llenado de los contenedores de basura. Utilizando el algoritmo de Dijkstra para calcular rutas óptimas, priorizamos la eficiencia en la asignación de recursos y minimizamos los trayectos vacíos. Los beneficios son diversos: reducción significativa de emisiones (gases de efecto invernadero), ahorro de tiempo y costos operativos, y una mejora general en la eficiencia de las operaciones. Esta estrategia no solo promueve prácticas ambientales responsables, sino que también contribuye al desarrollo sostenible de nuestra comunidad, marcando un paso importante hacia la gestión de residuos más eficiente y respetuosa con el medio ambiente.
 
 ## Referencias:
 
