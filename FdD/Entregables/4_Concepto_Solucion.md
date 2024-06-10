@@ -22,13 +22,13 @@ Nuestro sistema automatizado de gestión de residuos se basa en un mapa de nodos
 
 ## Definición de funciones
 
-+ *Recibe:* Recibe toda la información de los tachos con sensores ya establecidos en diversos puntos del distrito.
++ *Recibe:* Recibe toda la información de los tachos con sensores ya establecidos en diversos puntos del distrito. En el proyecto los datos recibidos son de los potenciómetros de cada tacho.
 + *Almacenar:* Los datos son almacenados en una base de datos.
-+ *Ordena:* Muestro software ordenaría con una matriz de adyacencia los datos y los clasifica según importancia.
-+ *Procesa:* Nuestro software procesaría y daría la ruta más óptima según nuestro algoritmo.
-+ *Transmitir:* Daría la orden al camión compactador (en este caso representado por un carro seguidor de línea) sobre la ruta que debe seguir.
-+ *Visualizar:* El usuario podrá visualizar la ruta escogida mediante la app ya implementada.
-+ *Notifica o Alerta:* Una vez terminada la acción daría una señal de alerta para indicar el fin de su recorrido
++ *Ordena:* Clasifica los datos según el nivel de llenado y la prioridad de recolección, preparando la información para el cálculo de ruta.
++ *Procesa:* Nuestro software procesaría y daría la ruta más óptima de recolección según nuestro algoritmo, utilizando la fórmula y tomando en cuenta la capacidad del camión.
++ *Transmitir:* Daría la orden al camión compactador sobre la ruta que debe seguir.
++ *Visualizar:* El usuario podrá visualizar la ruta optimizada y así el estado actual de cada contenedor mediante la app ya implementada.
++ *Notifica o Alerta:* Genera alertas y notificaciones sobre los contenedores que requieren atención inmediata.
 
 ## Matriz Morfológica
 
