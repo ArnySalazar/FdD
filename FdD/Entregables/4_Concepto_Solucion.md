@@ -32,7 +32,7 @@ Nuestro sistema automatizado de gestión de residuos se basa en un mapa de nodos
 
 ## Matriz Morfológica
 
-![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/Matriz_Morfologica.png)
+![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_4/matriz_morfologica.png)
 
 **Figura 4:** Matriz Morfológica del proyecto. Elaboración propia.
 
@@ -44,4 +44,4 @@ Nuestro sistema automatizado de gestión de residuos se basa en un mapa de nodos
 
 ## Conclusión del Concepto de Solución
 
-El concepto de solución con flechas de color rojo fue elegido principalmente por su funcionalidad adecuada en relación con la inversión realizada. Además, tiene una buena compatibilidad con las herramientas que vamos a utilizar, como el software de mapeo, el prototipo que seguirá las rutas en los puntos clave y la aplicación que utilizará el público objetivo. Para empezar, estamos optando por utilizar contenedores soterrados conectados a una base de datos Firebase para medir y almacenar el nivel de llenado. Un aplicativo móvil ordena y visualiza estos datos, además contiene un algoritmo de optimización que calcula la ruta más eficiente para la recolección, considerando la capacidad del camión. La información se transmite hacia el aplicativo móvil que mostrará la ruta óptima, además genera alertas sobre contenedores llenos. Nuestra solución complementa equipos que puedan trabajar bien entre sí y sean ajustables para una conexión adecuada.
+El concepto de solución con flechas de color rojo fue elegido principalmente por su funcionalidad adecuada en relación con la inversión realizada. Además, tiene una buena compatibilidad con las herramientas que vamos a utilizar, como el software de mapeo y la aplicación que utilizará el público objetivo. Para empezar, estamos optando por utilizar contenedores soterrados conectados a una base de datos Firebase para medir y almacenar el nivel de llenado. Un aplicativo móvil ordena y visualiza estos datos, además contiene un algoritmo de optimización que calcula la ruta más eficiente para la recolección, considerando la capacidad del camión. La información se transmite hacia el aplicativo móvil que mostrará la ruta óptima, además genera alertas sobre contenedores llenos. Nuestra solución complementa equipos que puedan trabajar bien entre sí y sean ajustables para una conexión adecuada.
