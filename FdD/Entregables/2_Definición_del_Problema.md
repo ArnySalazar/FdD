@@ -49,7 +49,7 @@ Lima con 3 457 830 que equivale a 43.7%
 
 1.- La falta de recursos sanitarios adecuados como basureros contenedores, contribuye a la contaminación ambiental.
 
-Lima
+#### Lima
 
 La gestión de residuos sólidos es un tema importante. La población total de Lima es de 10 288 888 habitantes, mientras que en las zonas rurales es de 127 2511 y se genera aproximadamente 3.4 millones de toneladas de residuos sólidos al año (2020).
 
@@ -91,13 +91,13 @@ La justificación radica en su impacto directo en la salud pública, el medio am
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Ishikawa.png)
 
-**Gráfico 4:** Creación propia
+**Gráfico 5:** Creación propia
 
 # Journey Map
 
 ![](https://github.com/ArnySalazar/FdD/blob/main/FdD2024-1/Imagenes/I_E_2/Journey_Map.png)
 
-**Gráfico 5:** Creación Propia
+**Gráfico 6:** Creación Propia
 
 ## Bibliografía
 1. El Comercio Perú, N. (2020, enero 31). ¿Qué distritos limeños generan la mayor cantidad de residuos sólidos? El Comercio Perú. https://elcomercio.pe/lima/sucesos/que-distritos-limenos-generan-la-mayor-cantidad-de-residuos-solidos-basura-noticia/?ref=ecr
