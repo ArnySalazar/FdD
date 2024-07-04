@@ -26,7 +26,7 @@ Para más información sobre nuestros roles, dar click [aquí](https://github.co
 
 # ¿Por qué decidimos nuestro proyecto?
 
-Decidimos nuestro proyecto porque a todos nos concierne el tema del cuidado del planeta. En conjunto con esto, podemos considerar los Objetivos de Desarrollo Sostenible, los cuales presentan metas para aproximadamente el 2050 en cuanto a avance medioambiental y dos de ellas están consideradas en nuestro proyecto. Principalmente, nos motivó la problemática de la aglomeración de desechos que en primera instancia, significa un peligro para la salud, y en segunda instancia, deteriora la conservación de la limpieza en la ciudad.
+Decidimos nuestro proyecto porque a todos nos concierne el tema del cuidado del planeta. En conjunto con esto, podemos considerar los Objetivos de Desarrollo Sostenible, los cuales presentan metas para aproximadamente el 2050 en cuanto a avance medioambiental y dos de ellas están consideradas en nuestro proyecto. Principalmente, nos motivó la problemática de la poca planificación del manejo de residuos sólidos, dándonos cuenta que con la implementación de un algoritmo podíamos construir un instrumento que pueda ayudar a distintas entidades a optimizar este proceso considerando que esto iba a reducir sus emisiones de gases de efecto invernadero entre algunos otros costos.
 
 # ¿Cuáles son nuestros ODS?
 
