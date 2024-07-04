@@ -34,7 +34,7 @@ Decidimos nuestro proyecto porque a todos nos concierne el tema del cuidado del 
 
 ## ¿Cuál es su objetivo?
 
-Nuestro objetivo, que está estrechamente ligado a nuestros ODS, el 11: Ciudades y comunidades sostenibles y el 12: producción y consumo responsable, es crear un dispositivo que pueda ser usado por distintas entidades (escuelas, universidades, municipalidades, aeropuertos, etc) a las cuales les interese promover el correcto manejo de residuos sólidos, les importe conservar la limpieza de sus entidades y estén dispuestas a agilizar la labor de recolección de desperdicios [1,2,3,4].
+Nuestro objetivo, que está estrechamente ligado a nuestro ODS, el 11: Ciudades y comunidades sostenibles, es crear un algoritmo optimizador de rutas que pueda ser usado por distintas entidades, municipalidades principalmente, a las cuales les interese ahorrar costos, agilizar procesos y disminuir su huella de carbono a través de la implementación de un software que les proporcione una ruta mejorada priorizando puntos de importancia.  [1,2,3,4].
 
 ## ¿Cuáles son sus metas?
 
@@ -44,6 +44,7 @@ Nuestro objetivo, que está estrechamente ligado a nuestros ODS, el 11: Ciudades
 4. Reducir la glomeración de desperdicios en los contenedores.
 5. Reducir los gases de efecto invernadero.
 6. Considerar a las empresas privadas en la correcta gestión de residuos.
+7. Agilizar los procesos de recolección.
 
 
 # Carpetas
